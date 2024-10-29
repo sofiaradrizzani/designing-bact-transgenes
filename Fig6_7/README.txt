@@ -22,5 +22,3 @@ Cambray_Good_drop_analysis.py
 compare_droppedL_GredC.r
 	Same as compare_droppedL.r but uses Cambray_Goodman_codondrop_LOR.csv rather than Goodman_codondrop_LOR.csv
 	Output: Fig7.pdf
-
-	
