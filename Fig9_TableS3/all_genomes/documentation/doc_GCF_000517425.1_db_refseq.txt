@@ -1,0 +1,16 @@
+File Name: GCF_000517425.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000517425.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/517/425/GCF_000517425.1_ASM51742v1/GCF_000517425.1_ASM51742v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:56:57 2023
+refseq_category: representative genome
+assembly_accession: GCF_000517425.1
+bioproject: PRJNA224116
+biosample: SAMN02641639
+taxid: 1239307
+infraspecific_name: strain=HS1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-01-10
+submitter: University of Utah

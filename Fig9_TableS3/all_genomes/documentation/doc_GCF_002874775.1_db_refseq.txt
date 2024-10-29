@@ -1,0 +1,16 @@
+File Name: GCF_002874775.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002874775.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/874/775/GCF_002874775.1_ASM287477v1/GCF_002874775.1_ASM287477v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:53:42 2023
+refseq_category: representative genome
+assembly_accession: GCF_002874775.1
+bioproject: PRJNA224116
+biosample: SAMN06817956
+taxid: 1981510
+infraspecific_name: strain=14
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-01-11
+submitter: Plant and Food Research

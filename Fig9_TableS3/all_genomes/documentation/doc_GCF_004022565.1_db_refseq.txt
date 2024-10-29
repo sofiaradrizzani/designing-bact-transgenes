@@ -1,0 +1,16 @@
+File Name: GCF_004022565.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004022565.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/022/565/GCF_004022565.1_ASM402256v1/GCF_004022565.1_ASM402256v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:54:36 2023
+refseq_category: representative genome
+assembly_accession: GCF_004022565.1
+bioproject: PRJNA224116
+biosample: SAMN07527258
+taxid: 2028345
+infraspecific_name: strain=YE3
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-01-15
+submitter: Jeju National University

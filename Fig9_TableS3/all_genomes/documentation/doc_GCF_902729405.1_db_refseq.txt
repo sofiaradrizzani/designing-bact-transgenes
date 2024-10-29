@@ -1,0 +1,16 @@
+File Name: GCF_902729405.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_902729405.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/902/729/405/GCF_902729405.1_GenomeAssemblyPeptococcaceaeBacteriumINE/GCF_902729405.1_GenomeAssemblyPeptococcaceaeBacteriumINE_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:36:36 2023
+refseq_category: representative genome
+assembly_accession: GCF_902729405.1
+bioproject: PRJNA224116
+biosample: SAMEA6497484
+taxid: 1561005
+infraspecific_name: na
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-02-28
+submitter: Wageningen University

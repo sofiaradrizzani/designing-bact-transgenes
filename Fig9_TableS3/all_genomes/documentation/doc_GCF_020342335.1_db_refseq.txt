@@ -1,0 +1,16 @@
+File Name: GCF_020342335.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_020342335.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/342/335/GCF_020342335.1_ASM2034233v1/GCF_020342335.1_ASM2034233v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:38:06 2023
+refseq_category: representative genome
+assembly_accession: GCF_020342335.1
+bioproject: PRJNA224116
+biosample: SAMN18651933
+taxid: 1619313
+infraspecific_name: strain=AR
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-10-07
+submitter: AgriBio

@@ -1,0 +1,16 @@
+File Name: GCF_003071405.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003071405.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/071/405/GCF_003071405.1_ASM307140v1/GCF_003071405.1_ASM307140v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:49:06 2023
+refseq_category: representative genome
+assembly_accession: GCF_003071405.1
+bioproject: PRJNA224116
+biosample: SAMN06641975
+taxid: 1075
+infraspecific_name: strain=28/5
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-04-25
+submitter: NEB

@@ -1,0 +1,16 @@
+File Name: GCF_015240255.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_015240255.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/240/255/GCF_015240255.1_ASM1524025v1/GCF_015240255.1_ASM1524025v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:57:40 2023
+refseq_category: representative genome
+assembly_accession: GCF_015240255.1
+bioproject: PRJNA224116
+biosample: SAMN16069864
+taxid: 2161677
+infraspecific_name: strain=N18
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-11-05
+submitter: Zhejiang Sci-Tech University

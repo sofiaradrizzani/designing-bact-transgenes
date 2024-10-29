@@ -1,0 +1,16 @@
+File Name: GCF_019930545.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_019930545.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/930/545/GCF_019930545.1_ASM1993054v1/GCF_019930545.1_ASM1993054v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:44:59 2023
+refseq_category: representative genome
+assembly_accession: GCF_019930545.1
+bioproject: PRJNA224116
+biosample: SAMN21169179
+taxid: 269673
+infraspecific_name: strain=EFEL7003
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-09-12
+submitter: Chungbuk National University

@@ -1,0 +1,16 @@
+File Name: GCF_006968745.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_006968745.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/968/745/GCF_006968745.1_ASM696874v1/GCF_006968745.1_ASM696874v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:08:54 2023
+refseq_category: representative genome
+assembly_accession: GCF_006968745.1
+bioproject: PRJNA224116
+biosample: SAMN09467079
+taxid: 415709
+infraspecific_name: strain=CENA114
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-15
+submitter: Sao Paulo State University (UNESP)

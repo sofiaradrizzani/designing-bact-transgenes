@@ -1,0 +1,16 @@
+File Name: GCF_015482585.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_015482585.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/482/585/GCF_015482585.1_ASM1548258v1/GCF_015482585.1_ASM1548258v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:09:54 2023
+refseq_category: representative genome
+assembly_accession: GCF_015482585.1
+bioproject: PRJNA224116
+biosample: SAMN12206557
+taxid: 2593652
+infraspecific_name: strain=R1DC41
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-11-16
+submitter: KAUST

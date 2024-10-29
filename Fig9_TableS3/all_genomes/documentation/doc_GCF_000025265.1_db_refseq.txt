@@ -1,0 +1,16 @@
+File Name: GCF_000025265.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000025265.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/025/265/GCF_000025265.1_ASM2526v1/GCF_000025265.1_ASM2526v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:15:02 2023
+refseq_category: representative genome
+assembly_accession: GCF_000025265.1
+bioproject: PRJNA224116
+biosample: SAMN00002582
+taxid: 469383
+infraspecific_name: strain=DSM 14684
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-01-15
+submitter: US DOE Joint Genome Institute (JGI-PGF)

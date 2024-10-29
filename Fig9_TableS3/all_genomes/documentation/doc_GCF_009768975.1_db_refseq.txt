@@ -1,0 +1,16 @@
+File Name: GCF_009768975.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009768975.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/768/975/GCF_009768975.1_ASM976897v1/GCF_009768975.1_ASM976897v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:02:12 2023
+refseq_category: representative genome
+assembly_accession: GCF_009768975.1
+bioproject: PRJNA224116
+biosample: SAMN10829500
+taxid: 392610
+infraspecific_name: strain=IMCC1753
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-12-19
+submitter: Inha University

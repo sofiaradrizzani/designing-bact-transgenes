@@ -1,0 +1,16 @@
+File Name: GCF_020736405.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_020736405.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/736/405/GCF_020736405.1_ASM2073640v1/GCF_020736405.1_ASM2073640v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:49:15 2023
+refseq_category: representative genome
+assembly_accession: GCF_020736405.1
+bioproject: PRJNA224116
+biosample: SAMN22091676
+taxid: 709991
+infraspecific_name: strain=FDAARGOS_1579
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-11-03
+submitter: US Food and Drug Administration

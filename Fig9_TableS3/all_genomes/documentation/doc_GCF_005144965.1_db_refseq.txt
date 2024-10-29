@@ -1,0 +1,16 @@
+File Name: GCF_005144965.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_005144965.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/144/965/GCF_005144965.1_ASM514496v1/GCF_005144965.1_ASM514496v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:43:02 2023
+refseq_category: representative genome
+assembly_accession: GCF_005144965.1
+bioproject: PRJNA224116
+biosample: SAMN11393911
+taxid: 1763828
+infraspecific_name: strain=W1-2-3
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-05-05
+submitter: Hankyong National University

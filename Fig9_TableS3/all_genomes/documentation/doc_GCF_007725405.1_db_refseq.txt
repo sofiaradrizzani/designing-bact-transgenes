@@ -1,0 +1,16 @@
+File Name: GCF_007725405.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007725405.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/725/405/GCF_007725405.1_ASM772540v1/GCF_007725405.1_ASM772540v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:10:42 2023
+refseq_category: representative genome
+assembly_accession: GCF_007725405.1
+bioproject: PRJNA224116
+biosample: SAMN12349014
+taxid: 2598861
+infraspecific_name: strain=AK13
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-31
+submitter: Korea university

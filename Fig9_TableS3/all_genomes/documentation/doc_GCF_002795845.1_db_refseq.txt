@@ -1,0 +1,16 @@
+File Name: GCF_002795845.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002795845.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/795/845/GCF_002795845.1_ASM279584v1/GCF_002795845.1_ASM279584v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:25:04 2023
+refseq_category: representative genome
+assembly_accession: GCF_002795845.1
+bioproject: PRJNA224116
+biosample: SAMN03652921
+taxid: 1336806
+infraspecific_name: strain=Hel1_31_D35
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-11-27
+submitter: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures

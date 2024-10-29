@@ -1,0 +1,16 @@
+File Name: GCF_002370195.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002370195.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/370/195/GCF_002370195.2_ASM237019v2/GCF_002370195.2_ASM237019v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:12:59 2023
+refseq_category: representative genome
+assembly_accession: GCF_002370195.2
+bioproject: PRJNA224116
+biosample: SAMD00082770
+taxid: 51173
+infraspecific_name: strain=A1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-06-25
+submitter: Bioconversion Group, Research Institute for Sustainable Chemistry, Materials and Chemistry, National Institute of Advanced Industrial Science and Technology

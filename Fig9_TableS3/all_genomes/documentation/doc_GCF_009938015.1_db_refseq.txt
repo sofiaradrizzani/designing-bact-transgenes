@@ -1,0 +1,16 @@
+File Name: GCF_009938015.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009938015.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/938/015/GCF_009938015.1_ASM993801v1/GCF_009938015.1_ASM993801v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:32:34 2023
+refseq_category: representative genome
+assembly_accession: GCF_009938015.1
+bioproject: PRJNA224116
+biosample: SAMD00179561
+taxid: 171865
+infraspecific_name: strain=Gro7
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-01-17
+submitter: Hokkaido University

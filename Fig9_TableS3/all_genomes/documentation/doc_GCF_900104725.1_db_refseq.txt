@@ -1,0 +1,16 @@
+File Name: GCF_900104725.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_900104725.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/104/725/GCF_900104725.1_IMG-taxon_2634166338_annotated_assembly/GCF_900104725.1_IMG-taxon_2634166338_annotated_assembly_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:26:57 2023
+refseq_category: representative genome
+assembly_accession: GCF_900104725.1
+bioproject: PRJNA224116
+biosample: SAMN04489716
+taxid: 113562
+infraspecific_name: strain=DSM 43941
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-10-21
+submitter: DOE - JOINT GENOME INSTITUTE

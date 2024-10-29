@@ -1,0 +1,16 @@
+File Name: GCF_008119665.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008119665.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/119/665/GCF_008119665.1_ASM811966v1/GCF_008119665.1_ASM811966v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:52:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_008119665.1
+bioproject: PRJNA224116
+biosample: SAMN12607274
+taxid: 1940612
+infraspecific_name: strain=Mada1488
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-08-27
+submitter: Leibniz Institute DSMZ

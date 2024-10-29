@@ -1,0 +1,16 @@
+File Name: GCF_003522965.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003522965.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/522/965/GCF_003522965.1_ASM352296v1/GCF_003522965.1_ASM352296v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:22:57 2023
+refseq_category: representative genome
+assembly_accession: GCF_003522965.1
+bioproject: PRJNA224116
+biosample: SAMN09629875
+taxid: 1303590
+infraspecific_name: strain=BI-2.5
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-09-10
+submitter: University of Texas at Austin

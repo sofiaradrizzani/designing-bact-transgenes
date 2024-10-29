@@ -1,0 +1,16 @@
+File Name: GCF_000941075.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000941075.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/941/075/GCF_000941075.1_ASM94107v1/GCF_000941075.1_ASM94107v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:00:07 2023
+refseq_category: representative genome
+assembly_accession: GCF_000941075.1
+bioproject: PRJNA224116
+biosample: SAMN03379857
+taxid: 86660
+infraspecific_name: strain=ATCC 27140
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-03-04
+submitter: University of Missouri - Columbia

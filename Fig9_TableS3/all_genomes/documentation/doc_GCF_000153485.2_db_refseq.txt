@@ -1,0 +1,16 @@
+File Name: GCF_000153485.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000153485.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/153/485/GCF_000153485.2_ASM15348v2/GCF_000153485.2_ASM15348v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:50:50 2023
+refseq_category: representative genome
+assembly_accession: GCF_000153485.2
+bioproject: PRJNA224116
+biosample: SAMN02603919
+taxid: 313595
+infraspecific_name: strain=ATCC 700755
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-10-09
+submitter: The Gordon and Betty Moore Foundation Marine Microbiology Initiative

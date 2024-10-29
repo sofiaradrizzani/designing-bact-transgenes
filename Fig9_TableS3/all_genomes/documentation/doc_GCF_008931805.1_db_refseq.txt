@@ -1,0 +1,16 @@
+File Name: GCF_008931805.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008931805.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/931/805/GCF_008931805.1_ASM893180v1/GCF_008931805.1_ASM893180v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:18:11 2023
+refseq_category: representative genome
+assembly_accession: GCF_008931805.1
+bioproject: PRJNA224116
+biosample: SAMN12502771
+taxid: 1202962
+infraspecific_name: strain=MP-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-10-09
+submitter: University hospital Essen

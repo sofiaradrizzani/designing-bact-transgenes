@@ -1,0 +1,16 @@
+File Name: GCF_019090985.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_019090985.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/090/985/GCF_019090985.1_ASM1909098v1/GCF_019090985.1_ASM1909098v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:32:26 2023
+refseq_category: representative genome
+assembly_accession: GCF_019090985.1
+bioproject: PRJNA224116
+biosample: SAMN06556601
+taxid: 171438
+infraspecific_name: strain=0813-124 phase II
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-07-01
+submitter: Academia Sinica

@@ -1,0 +1,16 @@
+File Name: GCF_011455875.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_011455875.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/455/875/GCF_011455875.1_ASM1145587v1/GCF_011455875.1_ASM1145587v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:42:46 2023
+refseq_category: representative genome
+assembly_accession: GCF_011455875.1
+bioproject: PRJNA224116
+biosample: SAMN04536521
+taxid: 653940
+infraspecific_name: strain=JF4016
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-03-19
+submitter: University of Copenhagen

@@ -1,0 +1,16 @@
+File Name: GCF_000974685.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000974685.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/974/685/GCF_000974685.2_FaOYT1_2.0/GCF_000974685.2_FaOYT1_2.0_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:14:38 2023
+refseq_category: representative genome
+assembly_accession: GCF_000974685.2
+bioproject: PRJNA224116
+biosample: SAMD00025396
+taxid: 1188319
+infraspecific_name: strain=OYT1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-07-01
+submitter: RIKEN BioResource Center

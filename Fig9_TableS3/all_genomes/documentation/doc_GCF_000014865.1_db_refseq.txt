@@ -1,0 +1,16 @@
+File Name: GCF_000014865.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000014865.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/014/865/GCF_000014865.1_ASM1486v1/GCF_000014865.1_ASM1486v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:29:56 2023
+refseq_category: representative genome
+assembly_accession: GCF_000014865.1
+bioproject: PRJNA224116
+biosample: SAMN02598452
+taxid: 156889
+infraspecific_name: strain=MC-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2006-11-08
+submitter: US DOE Joint Genome Institute

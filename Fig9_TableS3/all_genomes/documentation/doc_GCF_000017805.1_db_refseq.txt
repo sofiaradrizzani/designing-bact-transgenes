@@ -1,0 +1,16 @@
+File Name: GCF_000017805.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000017805.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/017/805/GCF_000017805.1_ASM1780v1/GCF_000017805.1_ASM1780v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:00:36 2023
+refseq_category: representative genome
+assembly_accession: GCF_000017805.1
+bioproject: PRJNA224116
+biosample: SAMN02598306
+taxid: 383372
+infraspecific_name: strain=DSM 13941
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2007-08-23
+submitter: US DOE Joint Genome Institute

@@ -1,0 +1,16 @@
+File Name: GCF_009429125.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009429125.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/429/125/GCF_009429125.1_ASM942912v1/GCF_009429125.1_ASM942912v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:11:36 2023
+refseq_category: representative genome
+assembly_accession: GCF_009429125.1
+bioproject: PRJNA224116
+biosample: SAMN13106273
+taxid: 1133546
+infraspecific_name: strain=HY-24
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-10-31
+submitter: Korea Research Institute of Bioscience and Biotechnology (KRIBB)

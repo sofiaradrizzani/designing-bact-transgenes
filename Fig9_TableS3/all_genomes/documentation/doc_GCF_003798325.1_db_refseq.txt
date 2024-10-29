@@ -1,0 +1,16 @@
+File Name: GCF_003798325.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003798325.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/798/325/GCF_003798325.1_ASM379832v1/GCF_003798325.1_ASM379832v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:56:56 2023
+refseq_category: representative genome
+assembly_accession: GCF_003798325.1
+bioproject: PRJNA224116
+biosample: SAMN10228556
+taxid: 556499
+infraspecific_name: strain=FDAARGOS_576
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-11-20
+submitter: US Food and Drug Administration

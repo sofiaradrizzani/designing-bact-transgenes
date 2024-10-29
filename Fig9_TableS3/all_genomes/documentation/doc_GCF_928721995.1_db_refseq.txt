@@ -1,0 +1,16 @@
+File Name: GCF_928721995.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_928721995.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/928/721/995/GCF_928721995.1_min17_bin56/GCF_928721995.1_min17_bin56_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:47:09 2023
+refseq_category: representative genome
+assembly_accession: GCF_928721995.1
+bioproject: PRJNA224116
+biosample: SAMEA12751975
+taxid: 1852381
+infraspecific_name: na
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-02-02
+submitter: Institut National pour la Recherche Agronomique (FRANCE)

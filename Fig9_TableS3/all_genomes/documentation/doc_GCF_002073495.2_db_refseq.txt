@@ -1,0 +1,16 @@
+File Name: GCF_002073495.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002073495.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/073/495/GCF_002073495.2_ASM207349v2/GCF_002073495.2_ASM207349v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:03:05 2023
+refseq_category: representative genome
+assembly_accession: GCF_002073495.2
+bioproject: PRJNA224116
+biosample: SAMN04875540
+taxid: 44275
+infraspecific_name: strain=FDAARGOS_203
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-03-01
+submitter: University of Maryland School of Medicine Institute for Genome Sciences (IGS) - sequencing center

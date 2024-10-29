@@ -1,0 +1,16 @@
+File Name: GCF_004851605.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004851605.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/851/605/GCF_004851605.1_ASM485160v1/GCF_004851605.1_ASM485160v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:59:41 2023
+refseq_category: representative genome
+assembly_accession: GCF_004851605.1
+bioproject: PRJNA224116
+biosample: SAMN09602974
+taxid: 2259620
+infraspecific_name: strain=soil36-7
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-04-24
+submitter: Third Institute of Oceanography,State Oceanic Administration

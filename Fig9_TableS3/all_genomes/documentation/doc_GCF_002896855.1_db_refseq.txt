@@ -1,0 +1,16 @@
+File Name: GCF_002896855.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002896855.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/896/855/GCF_002896855.1_ASM289685v1/GCF_002896855.1_ASM289685v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:22:18 2023
+refseq_category: representative genome
+assembly_accession: GCF_002896855.1
+bioproject: PRJNA224116
+biosample: SAMN07200985
+taxid: 84032
+infraspecific_name: strain=DSM 5807
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-01-24
+submitter: Corbion

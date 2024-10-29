@@ -1,0 +1,16 @@
+File Name: GCF_003628755.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003628755.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/628/755/GCF_003628755.1_ASM362875v1/GCF_003628755.1_ASM362875v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:37:26 2023
+refseq_category: representative genome
+assembly_accession: GCF_003628755.1
+bioproject: PRJNA224116
+biosample: SAMN06329641
+taxid: 626937
+infraspecific_name: strain=DSM 22607
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-10-11
+submitter: South China University of Technology

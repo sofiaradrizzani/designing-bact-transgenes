@@ -1,0 +1,16 @@
+File Name: GCF_022760175.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_022760175.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/760/175/GCF_022760175.1_ASM2276017v1/GCF_022760175.1_ASM2276017v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:58:50 2023
+refseq_category: representative genome
+assembly_accession: GCF_022760175.1
+bioproject: PRJNA224116
+biosample: SAMN26816378
+taxid: 2202721
+infraspecific_name: strain=HN-Y44
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-03-31
+submitter: Yantai University

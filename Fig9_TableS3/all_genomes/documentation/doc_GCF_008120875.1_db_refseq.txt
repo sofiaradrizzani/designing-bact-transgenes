@@ -1,0 +1,16 @@
+File Name: GCF_008120875.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008120875.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/120/875/GCF_008120875.1_ASM812087v1/GCF_008120875.1_ASM812087v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:29:47 2023
+refseq_category: representative genome
+assembly_accession: GCF_008120875.1
+bioproject: PRJNA224116
+biosample: SAMN12606864
+taxid: 155077
+infraspecific_name: strain=ADPT1-KOJIBIOSE
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-08-27
+submitter: University of Maryland - Baltimore County

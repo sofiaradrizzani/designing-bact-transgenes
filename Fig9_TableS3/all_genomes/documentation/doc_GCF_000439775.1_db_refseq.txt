@@ -1,0 +1,16 @@
+File Name: GCF_000439775.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000439775.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/439/775/GCF_000439775.1_ASM43977v1/GCF_000439775.1_ASM43977v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:47:49 2023
+refseq_category: representative genome
+assembly_accession: GCF_000439775.1
+bioproject: PRJNA224116
+biosample: SAMN02604171
+taxid: 1173064
+infraspecific_name: strain=JM
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2013-07-24
+submitter: University of Florida

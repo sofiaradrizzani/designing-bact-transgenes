@@ -1,0 +1,16 @@
+File Name: GCF_016638705.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_016638705.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/638/705/GCF_016638705.1_ASM1663870v1/GCF_016638705.1_ASM1663870v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:52:36 2023
+refseq_category: representative genome
+assembly_accession: GCF_016638705.1
+bioproject: PRJNA224116
+biosample: SAMN12084234
+taxid: 2590012
+infraspecific_name: strain=FJAT-51161
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-01-14
+submitter: Fujian Academy of Agricultural Sciences

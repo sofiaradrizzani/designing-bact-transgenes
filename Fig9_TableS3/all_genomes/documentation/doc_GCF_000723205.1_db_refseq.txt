@@ -1,0 +1,16 @@
+File Name: GCF_000723205.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000723205.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/723/205/GCF_000723205.1_FAGA1/GCF_000723205.1_FAGA1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:25:15 2023
+refseq_category: representative genome
+assembly_accession: GCF_000723205.1
+bioproject: PRJNA224116
+biosample: SAMEA3139019
+taxid: 1347342
+infraspecific_name: strain=type strain: KMM 3901
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2013-09-03
+submitter: MPI BREMEN

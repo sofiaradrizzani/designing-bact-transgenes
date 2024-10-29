@@ -1,0 +1,16 @@
+File Name: GCF_026651875.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_026651875.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/651/875/GCF_026651875.1_ASM2665187v1/GCF_026651875.1_ASM2665187v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:52:51 2023
+refseq_category: representative genome
+assembly_accession: GCF_026651875.1
+bioproject: PRJNA224116
+biosample: SAMN30609215
+taxid: 392011
+infraspecific_name: strain=DSM 17978
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-12-05
+submitter: Northwest A&F University

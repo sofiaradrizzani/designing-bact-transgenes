@@ -1,0 +1,16 @@
+File Name: GCF_000021685.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000021685.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/685/GCF_000021685.1_ASM2168v1/GCF_000021685.1_ASM2168v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:49:57 2023
+refseq_category: representative genome
+assembly_accession: GCF_000021685.1
+bioproject: PRJNA224116
+biosample: SAMN02603430
+taxid: 309801
+infraspecific_name: strain=DSM 5159
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2009-01-22
+submitter: J Craig Venter Institute

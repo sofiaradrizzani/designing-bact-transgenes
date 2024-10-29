@@ -1,0 +1,16 @@
+File Name: GCF_000331735.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000331735.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/331/735/GCF_000331735.1_ASM33173v1/GCF_000331735.1_ASM33173v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:42:35 2023
+refseq_category: representative genome
+assembly_accession: GCF_000331735.1
+bioproject: PRJNA224116
+biosample: SAMN02603594
+taxid: 1278073
+infraspecific_name: strain=DSM 14675
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2013-01-14
+submitter: Max Planck Institute for Terrrestrial Microbiology

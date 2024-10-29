@@ -1,0 +1,16 @@
+File Name: GCF_011207455.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_011207455.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/207/455/GCF_011207455.1_ASM1120745v1/GCF_011207455.1_ASM1120745v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:52:30 2023
+refseq_category: representative genome
+assembly_accession: GCF_011207455.1
+bioproject: PRJNA224116
+biosample: SAMN14116118
+taxid: 1936021
+infraspecific_name: strain=ST65
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-03-12
+submitter: Research Center of Biotechnology RAS

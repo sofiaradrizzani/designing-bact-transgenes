@@ -1,0 +1,16 @@
+File Name: GCF_000008865.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000008865.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/865/GCF_000008865.2_ASM886v2/GCF_000008865.2_ASM886v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:42:39 2023
+refseq_category: reference genome
+assembly_accession: GCF_000008865.2
+bioproject: PRJNA57781
+biosample: SAMN01911278
+taxid: 386585
+infraspecific_name: strain=Sakai substr. RIMD 0509952
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-06-08
+submitter: GIRC

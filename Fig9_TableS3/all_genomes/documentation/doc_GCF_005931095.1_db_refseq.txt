@@ -1,0 +1,16 @@
+File Name: GCF_005931095.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_005931095.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/931/095/GCF_005931095.1_ASM593109v1/GCF_005931095.1_ASM593109v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:24:29 2023
+refseq_category: representative genome
+assembly_accession: GCF_005931095.1
+bioproject: PRJNA224116
+biosample: SAMN10752162
+taxid: 95641
+infraspecific_name: strain=5GB1C
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-06-03
+submitter: University of Washington

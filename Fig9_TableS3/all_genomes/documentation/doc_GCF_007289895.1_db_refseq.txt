@@ -1,0 +1,16 @@
+File Name: GCF_007289895.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007289895.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/289/895/GCF_007289895.1_ASM728989v1/GCF_007289895.1_ASM728989v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:41:59 2023
+refseq_category: representative genome
+assembly_accession: GCF_007289895.1
+bioproject: PRJNA224116
+biosample: SAMN12257642
+taxid: 1740262
+infraspecific_name: strain=WS1-A
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-23
+submitter: Myongji University

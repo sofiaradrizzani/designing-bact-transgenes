@@ -1,0 +1,16 @@
+File Name: GCF_002814075.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002814075.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/814/075/GCF_002814075.1_ASM281407v1/GCF_002814075.1_ASM281407v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:05:16 2023
+refseq_category: representative genome
+assembly_accession: GCF_002814075.1
+bioproject: PRJNA224116
+biosample: SAMN06133458
+taxid: 985043
+infraspecific_name: strain=KCTC 23670
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-12-07
+submitter: Atmosphere and Ocean Research Institute, The University of Tokyo

@@ -1,0 +1,16 @@
+File Name: GCF_000973105.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000973105.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/973/105/GCF_000973105.1_ASM97310v1/GCF_000973105.1_ASM97310v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:17:03 2023
+refseq_category: representative genome
+assembly_accession: GCF_000973105.1
+bioproject: PRJNA224116
+biosample: SAMEA3315864
+taxid: 63186
+infraspecific_name: strain=DsiJT
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2011-07-10
+submitter: Genoscope CEA

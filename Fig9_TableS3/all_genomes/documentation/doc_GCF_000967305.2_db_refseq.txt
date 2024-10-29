@@ -1,0 +1,16 @@
+File Name: GCF_000967305.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000967305.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/967/305/GCF_000967305.2_ASM96730v2/GCF_000967305.2_ASM96730v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:41:29 2023
+refseq_category: representative genome
+assembly_accession: GCF_000967305.2
+bioproject: PRJNA224116
+biosample: SAMN03379009
+taxid: 511
+infraspecific_name: strain=ZD02
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-11-17
+submitter: Huazhong Agricultural University (HZAU)

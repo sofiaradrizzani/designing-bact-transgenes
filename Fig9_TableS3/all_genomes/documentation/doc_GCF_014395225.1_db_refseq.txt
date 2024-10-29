@@ -1,0 +1,16 @@
+File Name: GCF_014395225.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_014395225.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/395/225/GCF_014395225.1_ASM1439522v1/GCF_014395225.1_ASM1439522v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:55:04 2023
+refseq_category: representative genome
+assembly_accession: GCF_014395225.1
+bioproject: PRJNA224116
+biosample: SAMN15892562
+taxid: 336820
+infraspecific_name: strain=KACC 11594
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-09-02
+submitter: Kyung Hee University

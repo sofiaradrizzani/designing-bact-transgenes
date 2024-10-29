@@ -1,0 +1,16 @@
+File Name: GCF_002504085.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002504085.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/504/085/GCF_002504085.1_ASM250408v1/GCF_002504085.1_ASM250408v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:02:22 2023
+refseq_category: representative genome
+assembly_accession: GCF_002504085.1
+bioproject: PRJNA224116
+biosample: SAMN04510769
+taxid: 13690
+infraspecific_name: strain=S72
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-10-10
+submitter: Instituto Politecnico Nacional

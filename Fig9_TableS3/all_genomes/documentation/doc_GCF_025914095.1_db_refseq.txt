@@ -1,0 +1,16 @@
+File Name: GCF_025914095.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_025914095.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/914/095/GCF_025914095.1_ASM2591409v1/GCF_025914095.1_ASM2591409v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:32:48 2023
+refseq_category: representative genome
+assembly_accession: GCF_025914095.1
+bioproject: PRJNA224116
+biosample: SAMN18928745
+taxid: 1505757
+infraspecific_name: strain=YSD YN2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-10-31
+submitter: Jiangnan University

@@ -1,0 +1,16 @@
+File Name: GCF_009834205.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009834205.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/834/205/GCF_009834205.1_ASM983420v1/GCF_009834205.1_ASM983420v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:06:43 2023
+refseq_category: representative genome
+assembly_accession: GCF_009834205.1
+bioproject: PRJNA224116
+biosample: SAMN12724567
+taxid: 110937
+infraspecific_name: strain=VKM Ac-2802
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-01-08
+submitter: PSCBR RAS G.K. Skryabin Institute of Biochemistry and Physiology of Microorganisms RAS

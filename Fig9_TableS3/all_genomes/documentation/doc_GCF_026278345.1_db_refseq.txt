@@ -1,0 +1,16 @@
+File Name: GCF_026278345.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_026278345.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/278/345/GCF_026278345.1_ASM2627834v1/GCF_026278345.1_ASM2627834v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:13:07 2023
+refseq_category: representative genome
+assembly_accession: GCF_026278345.1
+bioproject: PRJNA224116
+biosample: SAMN31736499
+taxid: 2674997
+infraspecific_name: strain=U15T
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-11-22
+submitter: Microbiology Institute of Shaanxi

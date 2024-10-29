@@ -1,0 +1,16 @@
+File Name: GCF_006363915.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_006363915.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/363/915/GCF_006363915.1_ASM636391v1/GCF_006363915.1_ASM636391v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:09:17 2023
+refseq_category: representative genome
+assembly_accession: GCF_006363915.1
+bioproject: PRJNA224116
+biosample: SAMN11964623
+taxid: 2588534
+infraspecific_name: strain=MMS-M-51
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-06-19
+submitter: Biology Centre CAS, Institute of Hydrobiology

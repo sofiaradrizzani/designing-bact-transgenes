@@ -1,0 +1,16 @@
+File Name: GCF_005849285.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_005849285.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/849/285/GCF_005849285.1_ASM584928v1/GCF_005849285.1_ASM584928v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:08:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_005849285.1
+bioproject: PRJNA224116
+biosample: SAMN11774873
+taxid: 2582913
+infraspecific_name: strain=MEBiC09520
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-05-27
+submitter: Korea Institute of Ocean Science & Technology (KIOST)

@@ -1,0 +1,16 @@
+File Name: GCF_003967035.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003967035.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/967/035/GCF_003967035.1_ASM396703v1/GCF_003967035.1_ASM396703v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:54:03 2023
+refseq_category: representative genome
+assembly_accession: GCF_003967035.1
+bioproject: PRJNA224116
+biosample: SAMD00115724
+taxid: 2010829
+infraspecific_name: strain=Dysh456
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-05-16
+submitter: Institute of Low Temperature Science, Hokkaido University

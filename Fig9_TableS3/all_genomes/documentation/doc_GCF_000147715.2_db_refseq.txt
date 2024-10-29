@@ -1,0 +1,16 @@
+File Name: GCF_000147715.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000147715.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/715/GCF_000147715.2_ASM14771v3/GCF_000147715.2_ASM14771v3_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:43:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_000147715.2
+bioproject: PRJNA224116
+biosample: SAMN00025417
+taxid: 660470
+infraspecific_name: strain=mesG1.Ag.4.2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-05-17
+submitter: US DOE Joint Genome Institute (JGI-PGF)

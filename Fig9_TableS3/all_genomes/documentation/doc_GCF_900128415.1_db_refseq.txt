@@ -1,0 +1,16 @@
+File Name: GCF_900128415.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_900128415.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/128/415/GCF_900128415.1_PRJEB15655/GCF_900128415.1_PRJEB15655_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:06:08 2023
+refseq_category: representative genome
+assembly_accession: GCF_900128415.1
+bioproject: PRJNA224116
+biosample: SAMEA4555797
+taxid: 1870984
+infraspecific_name: strain=Marseille-P2765T
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-11-25
+submitter: URMITE

@@ -1,0 +1,16 @@
+File Name: GCF_007752135.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007752135.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/752/135/GCF_007752135.1_ASM775213v1/GCF_007752135.1_ASM775213v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:04:23 2023
+refseq_category: representative genome
+assembly_accession: GCF_007752135.1
+bioproject: PRJNA224116
+biosample: SAMN10953988
+taxid: 2527968
+infraspecific_name: strain=Q31a
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-31
+submitter: Radboud Universiteit Nijmegen

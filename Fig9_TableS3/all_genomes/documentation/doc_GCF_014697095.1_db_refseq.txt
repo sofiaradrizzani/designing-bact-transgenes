@@ -1,0 +1,16 @@
+File Name: GCF_014697095.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_014697095.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/697/095/GCF_014697095.1_ASM1469709v1/GCF_014697095.1_ASM1469709v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:04:44 2023
+refseq_category: representative genome
+assembly_accession: GCF_014697095.1
+bioproject: PRJNA224116
+biosample: SAMN15472119
+taxid: 664683
+infraspecific_name: strain=SOB56
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-09-22
+submitter: Ocean University of China

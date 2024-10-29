@@ -1,0 +1,16 @@
+File Name: GCF_000196315.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000196315.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/196/315/GCF_000196315.1_ASM19631v1/GCF_000196315.1_ASM19631v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:37:54 2023
+refseq_category: representative genome
+assembly_accession: GCF_000196315.1
+bioproject: PRJNA224116
+biosample: SAMN02603922
+taxid: 216432
+infraspecific_name: strain=HTCC2559
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-06-09
+submitter: The Gordon and Betty Moore Foundation Marine Microbiology Initiative

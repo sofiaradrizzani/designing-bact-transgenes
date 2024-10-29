@@ -1,0 +1,16 @@
+File Name: GCF_003627075.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003627075.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/627/075/GCF_003627075.1_ASM362707v1/GCF_003627075.1_ASM362707v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:01:09 2023
+refseq_category: representative genome
+assembly_accession: GCF_003627075.1
+bioproject: PRJNA224116
+biosample: SAMN10141032
+taxid: 2419774
+infraspecific_name: strain=2DFWR-13
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-10-07
+submitter: National Institute of Agricultural Sciences

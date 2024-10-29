@@ -1,0 +1,16 @@
+File Name: GCF_000175215.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000175215.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/175/215/GCF_000175215.2_ASM17521v2/GCF_000175215.2_ASM17521v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:32:23 2023
+refseq_category: representative genome
+assembly_accession: GCF_000175215.2
+bioproject: PRJNA224116
+biosample: SAMN00002561
+taxid: 573065
+infraspecific_name: strain=CS 48
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-12-22
+submitter: US DOE Joint Genome Institute (JGI-PGF)

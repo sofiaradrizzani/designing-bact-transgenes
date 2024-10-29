@@ -1,0 +1,16 @@
+File Name: GCF_019357495.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_019357495.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/357/495/GCF_019357495.1_ASM1935749v1/GCF_019357495.1_ASM1935749v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:18:47 2023
+refseq_category: representative genome
+assembly_accession: GCF_019357495.1
+bioproject: PRJNA224116
+biosample: SAMN19605268
+taxid: 489910
+infraspecific_name: strain=DSM 19163
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-07-27
+submitter: Robert Koch Institute

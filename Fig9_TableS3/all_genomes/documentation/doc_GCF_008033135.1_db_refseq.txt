@@ -1,0 +1,16 @@
+File Name: GCF_008033135.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008033135.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/033/135/GCF_008033135.1_ASM803313v1/GCF_008033135.1_ASM803313v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:45:51 2023
+refseq_category: representative genome
+assembly_accession: GCF_008033135.1
+bioproject: PRJNA224116
+biosample: SAMN12169316
+taxid: 682798
+infraspecific_name: strain=SYBC-H1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-08-20
+submitter: Nanjing Tech University

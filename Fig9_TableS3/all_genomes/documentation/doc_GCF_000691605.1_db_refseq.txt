@@ -1,0 +1,16 @@
+File Name: GCF_000691605.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000691605.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/691/605/GCF_000691605.1_ASM69160v1/GCF_000691605.1_ASM69160v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:48:06 2023
+refseq_category: representative genome
+assembly_accession: GCF_000691605.1
+bioproject: PRJNA224116
+biosample: SAMN02743506
+taxid: 959
+infraspecific_name: strain=109J
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-05-15
+submitter: Hebrew University of Jerusalem

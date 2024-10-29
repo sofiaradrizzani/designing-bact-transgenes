@@ -1,0 +1,16 @@
+File Name: GCF_018282095.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_018282095.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/282/095/GCF_018282095.1_ASM1828209v1/GCF_018282095.1_ASM1828209v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:49:43 2023
+refseq_category: representative genome
+assembly_accession: GCF_018282095.1
+bioproject: PRJNA224116
+biosample: SAMN18957917
+taxid: 1898042
+infraspecific_name: strain=Ab134
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-05-05
+submitter: University of Illinois at Chicago

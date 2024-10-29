@@ -1,0 +1,16 @@
+File Name: GCF_000582515.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000582515.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/582/515/GCF_000582515.1_ASM58251v1/GCF_000582515.1_ASM58251v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:44:06 2023
+refseq_category: representative genome
+assembly_accession: GCF_000582515.1
+bioproject: PRJNA224116
+biosample: SAMN02640350
+taxid: 367190
+infraspecific_name: strain=Y_sim_228
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-02-26
+submitter: Friedrich-Loeffler-Institut

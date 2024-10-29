@@ -1,0 +1,16 @@
+File Name: GCF_000238215.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000238215.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/238/215/GCF_000238215.1_ASM23821v1/GCF_000238215.1_ASM23821v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:35:29 2023
+refseq_category: representative genome
+assembly_accession: GCF_000238215.1
+bioproject: PRJNA224116
+biosample: SAMN02604009
+taxid: 203275
+infraspecific_name: strain=92A2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2011-12-15
+submitter: TIGR

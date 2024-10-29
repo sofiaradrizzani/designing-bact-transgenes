@@ -1,0 +1,16 @@
+File Name: GCF_000025005.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000025005.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/025/005/GCF_000025005.1_ASM2500v1/GCF_000025005.1_ASM2500v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:25:41 2023
+refseq_category: representative genome
+assembly_accession: GCF_000025005.1
+bioproject: PRJNA224116
+biosample: SAMN00017581
+taxid: 525904
+infraspecific_name: strain=ATCC BAA-798
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2009-11-23
+submitter: US DOE Joint Genome Institute (JGI-PGF)

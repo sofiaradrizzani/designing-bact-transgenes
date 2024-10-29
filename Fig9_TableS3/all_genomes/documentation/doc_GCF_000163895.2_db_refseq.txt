@@ -1,0 +1,16 @@
+File Name: GCF_000163895.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000163895.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/163/895/GCF_000163895.2_ASM16389v2/GCF_000163895.2_ASM16389v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:28:07 2023
+refseq_category: representative genome
+assembly_accession: GCF_000163895.2
+bioproject: PRJNA224116
+biosample: SAMN02463683
+taxid: 546269
+infraspecific_name: strain=ATCC 35896
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2011-01-27
+submitter: Broad Institute

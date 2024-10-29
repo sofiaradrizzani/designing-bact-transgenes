@@ -1,0 +1,16 @@
+File Name: GCF_000972785.3_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000972785.3
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/972/785/GCF_000972785.3_ASM97278v3/GCF_000972785.3_ASM97278v3_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:24:12 2023
+refseq_category: representative genome
+assembly_accession: GCF_000972785.3
+bioproject: PRJNA224116
+biosample: SAMN03085480
+taxid: 573737
+infraspecific_name: strain=DSM 23570
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-06-15
+submitter: University of Malaya

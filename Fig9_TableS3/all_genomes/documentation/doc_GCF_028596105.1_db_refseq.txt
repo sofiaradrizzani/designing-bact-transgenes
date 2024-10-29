@@ -1,0 +1,16 @@
+File Name: GCF_028596105.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_028596105.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/596/105/GCF_028596105.1_ASM2859610v1/GCF_028596105.1_ASM2859610v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:21:17 2023
+refseq_category: representative genome
+assembly_accession: GCF_028596105.1
+bioproject: PRJNA224116
+biosample: SAMN33025486
+taxid: 80878
+infraspecific_name: strain=LMJ
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2023-02-12
+submitter: University of West Georgia

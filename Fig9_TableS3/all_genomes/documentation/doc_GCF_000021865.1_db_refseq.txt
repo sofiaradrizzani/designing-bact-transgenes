@@ -1,0 +1,16 @@
+File Name: GCF_000021865.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000021865.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/865/GCF_000021865.1_ASM2186v1/GCF_000021865.1_ASM2186v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:45:51 2023
+refseq_category: representative genome
+assembly_accession: GCF_000021865.1
+bioproject: PRJNA224116
+biosample: SAMN02604080
+taxid: 272942
+infraspecific_name: strain=SB 1003
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-04-09
+submitter: Univ. Chicago

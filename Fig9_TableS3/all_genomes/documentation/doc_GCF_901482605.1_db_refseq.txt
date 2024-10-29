@@ -1,0 +1,16 @@
+File Name: GCF_901482605.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_901482605.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/901/482/605/GCF_901482605.1_45532_E01/GCF_901482605.1_45532_E01_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:53:47 2023
+refseq_category: representative genome
+assembly_accession: GCF_901482605.1
+bioproject: PRJNA224116
+biosample: SAMEA3919786
+taxid: 1498
+infraspecific_name: strain=NCTC503
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-05-11
+submitter: SC

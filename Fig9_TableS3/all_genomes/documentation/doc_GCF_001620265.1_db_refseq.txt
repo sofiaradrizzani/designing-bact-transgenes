@@ -1,0 +1,16 @@
+File Name: GCF_001620265.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001620265.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/620/265/GCF_001620265.1_ASM162026v1/GCF_001620265.1_ASM162026v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:24:53 2023
+refseq_category: representative genome
+assembly_accession: GCF_001620265.1
+bioproject: PRJNA224116
+biosample: SAMN03956960
+taxid: 1335048
+infraspecific_name: strain=cai42
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-04-15
+submitter: Peking University

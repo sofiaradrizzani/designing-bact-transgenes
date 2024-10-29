@@ -1,0 +1,16 @@
+File Name: GCF_000317695.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000317695.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/317/695/GCF_000317695.1_ASM31769v1/GCF_000317695.1_ASM31769v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:45:19 2023
+refseq_category: representative genome
+assembly_accession: GCF_000317695.1
+bioproject: PRJNA224116
+biosample: SAMN02232008
+taxid: 272123
+infraspecific_name: strain=PCC 7122
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-12-07
+submitter: DOE Joint Genome Institute

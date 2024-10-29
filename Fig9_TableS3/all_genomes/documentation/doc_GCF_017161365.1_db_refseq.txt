@@ -1,0 +1,16 @@
+File Name: GCF_017161365.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_017161365.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/161/365/GCF_017161365.1_ASM1716136v1/GCF_017161365.1_ASM1716136v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:58:35 2023
+refseq_category: representative genome
+assembly_accession: GCF_017161365.1
+bioproject: PRJNA224116
+biosample: SAMN08177665
+taxid: 2006
+infraspecific_name: strain=ZC4
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-03-03
+submitter: Microbial diversity studies of the Sao Paulo Zoo

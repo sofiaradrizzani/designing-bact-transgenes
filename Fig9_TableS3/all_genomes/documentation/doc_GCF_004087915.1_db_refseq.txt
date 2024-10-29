@@ -1,0 +1,16 @@
+File Name: GCF_004087915.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004087915.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/087/915/GCF_004087915.1_ASM408791v1/GCF_004087915.1_ASM408791v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:28:27 2023
+refseq_category: representative genome
+assembly_accession: GCF_004087915.1
+bioproject: PRJNA224116
+biosample: SAMN10724383
+taxid: 139438
+infraspecific_name: strain=DSM 11263
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-01-21
+submitter: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures

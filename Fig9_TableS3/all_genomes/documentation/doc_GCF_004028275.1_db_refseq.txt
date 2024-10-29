@@ -1,0 +1,16 @@
+File Name: GCF_004028275.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004028275.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/028/275/GCF_004028275.1_ASM402827v1/GCF_004028275.1_ASM402827v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:03:29 2023
+refseq_category: representative genome
+assembly_accession: GCF_004028275.1
+bioproject: PRJNA224116
+biosample: SAMN10724091
+taxid: 265883
+infraspecific_name: strain=JR-2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-01-17
+submitter: University of South Florida

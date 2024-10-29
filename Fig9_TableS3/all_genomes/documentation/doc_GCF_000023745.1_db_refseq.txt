@@ -1,0 +1,16 @@
+File Name: GCF_000023745.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000023745.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/023/745/GCF_000023745.1_ASM2374v1/GCF_000023745.1_ASM2374v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:34:07 2023
+refseq_category: representative genome
+assembly_accession: GCF_000023745.1
+bioproject: PRJNA224116
+biosample: SAMN02598498
+taxid: 582744
+infraspecific_name: strain=SIP3-4
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2009-07-15
+submitter: US DOE Joint Genome Institute

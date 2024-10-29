@@ -1,0 +1,16 @@
+File Name: GCF_001886735.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001886735.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/886/735/GCF_001886735.1_ASM188673v1/GCF_001886735.1_ASM188673v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:21:50 2023
+refseq_category: representative genome
+assembly_accession: GCF_001886735.1
+bioproject: PRJNA224116
+biosample: SAMN06013870
+taxid: 1917485
+infraspecific_name: strain=AM1-D1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-11-28
+submitter: East China Sea Fisheries Research Institute

@@ -1,0 +1,16 @@
+File Name: GCF_014211955.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_014211955.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/211/955/GCF_014211955.1_ASM1421195v1/GCF_014211955.1_ASM1421195v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:13:19 2023
+refseq_category: representative genome
+assembly_accession: GCF_014211955.1
+bioproject: PRJNA224116
+biosample: SAMN15700861
+taxid: 450378
+infraspecific_name: strain=OT19
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-08-16
+submitter: Institute of Oceanology, Chinese Academy of Sciences

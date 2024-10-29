@@ -1,0 +1,16 @@
+File Name: GCF_902806995.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_902806995.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/902/806/995/GCF_902806995.1_15-2067_O50/GCF_902806995.1_15-2067_O50_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:13:50 2023
+refseq_category: representative genome
+assembly_accession: GCF_902806995.1
+bioproject: PRJNA224116
+biosample: SAMEA6565319
+taxid: 2681470
+infraspecific_name: na
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-05-03
+submitter: ANSES

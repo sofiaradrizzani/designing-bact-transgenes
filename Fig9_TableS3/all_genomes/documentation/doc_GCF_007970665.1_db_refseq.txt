@@ -1,0 +1,16 @@
+File Name: GCF_007970665.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007970665.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/970/665/GCF_007970665.1_ASM797066v1/GCF_007970665.1_ASM797066v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:18:59 2023
+refseq_category: representative genome
+assembly_accession: GCF_007970665.1
+bioproject: PRJNA224116
+biosample: SAMN12429830
+taxid: 496014
+infraspecific_name: strain=BR7-21
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-08-12
+submitter: Hankyong National University

@@ -1,0 +1,16 @@
+File Name: GCF_006965545.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_006965545.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/965/545/GCF_006965545.2_ASM696554v2/GCF_006965545.2_ASM696554v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:09:46 2023
+refseq_category: representative genome
+assembly_accession: GCF_006965545.2
+bioproject: PRJNA224116
+biosample: SAMN12167196
+taxid: 2592382
+infraspecific_name: strain=M4U3P1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-06-16
+submitter: Inner Mongolia University

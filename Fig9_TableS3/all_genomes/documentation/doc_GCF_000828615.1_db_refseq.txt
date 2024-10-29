@@ -1,0 +1,16 @@
+File Name: GCF_000828615.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000828615.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/828/615/GCF_000828615.1_ASM82861v1/GCF_000828615.1_ASM82861v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:07:50 2023
+refseq_category: representative genome
+assembly_accession: GCF_000828615.1
+bioproject: PRJNA224116
+biosample: SAMD00060997
+taxid: 1076588
+infraspecific_name: strain=Hiromi 1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-01-16
+submitter: Japan Agency for Marine-Earth Science and Technology

@@ -1,0 +1,16 @@
+File Name: GCF_008831385.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008831385.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/831/385/GCF_008831385.1_ASM883138v1/GCF_008831385.1_ASM883138v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:13:24 2023
+refseq_category: representative genome
+assembly_accession: GCF_008831385.1
+bioproject: PRJNA224116
+biosample: SAMN12777614
+taxid: 51664
+infraspecific_name: strain=LH506
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-10-07
+submitter: Korea University

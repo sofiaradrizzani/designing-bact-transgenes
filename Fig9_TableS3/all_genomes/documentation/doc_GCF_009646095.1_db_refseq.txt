@@ -1,0 +1,16 @@
+File Name: GCF_009646095.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009646095.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/646/095/GCF_009646095.1_ASM964609v1/GCF_009646095.1_ASM964609v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:12:40 2023
+refseq_category: representative genome
+assembly_accession: GCF_009646095.1
+bioproject: PRJNA224116
+biosample: SAMN13111903
+taxid: 2662261
+infraspecific_name: strain=CBA3103
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-11-09
+submitter: World Institute of Kimchi

@@ -1,0 +1,16 @@
+File Name: GCF_000830905.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000830905.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/830/905/GCF_000830905.1_ASM83090v1/GCF_000830905.1_ASM83090v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:28:26 2023
+refseq_category: representative genome
+assembly_accession: GCF_000830905.1
+bioproject: PRJNA224116
+biosample: SAMN02444486
+taxid: 1432060
+infraspecific_name: strain=CG4
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-08-04
+submitter: GIS/NUS

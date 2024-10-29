@@ -1,0 +1,16 @@
+File Name: GCF_007741475.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007741475.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/741/475/GCF_007741475.1_ASM774147v1/GCF_007741475.1_ASM774147v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:52:07 2023
+refseq_category: representative genome
+assembly_accession: GCF_007741475.1
+bioproject: PRJNA224116
+biosample: SAMN06143217
+taxid: 1930277
+infraspecific_name: strain=EC9
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-31
+submitter: Leibniz-Institute DSMZ German Collection of Microorganisms and Cell Cultures

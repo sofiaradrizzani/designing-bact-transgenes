@@ -1,0 +1,16 @@
+File Name: GCF_002163605.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002163605.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/163/605/GCF_002163605.1_ASM216360v1/GCF_002163605.1_ASM216360v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:13:47 2023
+refseq_category: representative genome
+assembly_accession: GCF_002163605.1
+bioproject: PRJNA224116
+biosample: SAMN04910026
+taxid: 53336
+infraspecific_name: strain=ATCC 39140
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-06-02
+submitter: Chinese Academy of Sciences

@@ -1,0 +1,16 @@
+File Name: GCF_001267255.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001267255.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/267/255/GCF_001267255.1_ASM126725v1/GCF_001267255.1_ASM126725v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:40:22 2023
+refseq_category: representative genome
+assembly_accession: GCF_001267255.1
+bioproject: PRJNA224116
+biosample: SAMN03946922
+taxid: 1697053
+infraspecific_name: strain=D3318
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-08-13
+submitter: CDC

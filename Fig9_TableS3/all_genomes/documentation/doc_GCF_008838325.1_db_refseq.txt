@@ -1,0 +1,16 @@
+File Name: GCF_008838325.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008838325.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/838/325/GCF_008838325.1_ASM883832v1/GCF_008838325.1_ASM883832v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:11:19 2023
+refseq_category: representative genome
+assembly_accession: GCF_008838325.1
+bioproject: PRJNA224116
+biosample: SAMN12500377
+taxid: 2601677
+infraspecific_name: strain=3753O
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-10-04
+submitter: Research Center of Biotechnology RAS

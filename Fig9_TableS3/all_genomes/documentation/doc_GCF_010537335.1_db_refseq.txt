@@ -1,0 +1,16 @@
+File Name: GCF_010537335.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_010537335.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/537/335/GCF_010537335.1_ASM1053733v1/GCF_010537335.1_ASM1053733v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:08:47 2023
+refseq_category: representative genome
+assembly_accession: GCF_010537335.1
+bioproject: PRJNA224116
+biosample: SAMD00172920
+taxid: 2583452
+infraspecific_name: strain=9CBEGH2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-01-27
+submitter: National Institute of Genetics

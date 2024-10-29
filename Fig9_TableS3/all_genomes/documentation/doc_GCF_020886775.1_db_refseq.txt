@@ -1,0 +1,16 @@
+File Name: GCF_020886775.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_020886775.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/886/775/GCF_020886775.1_ASM2088677v1/GCF_020886775.1_ASM2088677v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:56:26 2023
+refseq_category: representative genome
+assembly_accession: GCF_020886775.1
+bioproject: PRJNA224116
+biosample: SAMD00286437
+taxid: 322009
+infraspecific_name: strain=ATCC 51369
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-09-13
+submitter: Department of Life Science & Biotechnology, Kansai University

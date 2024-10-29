@@ -1,0 +1,16 @@
+File Name: GCF_005083985.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_005083985.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/083/985/GCF_005083985.2_ASM508398v2/GCF_005083985.2_ASM508398v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:01:02 2023
+refseq_category: representative genome
+assembly_accession: GCF_005083985.2
+bioproject: PRJNA224116
+biosample: SAMN08634218
+taxid: 1424653
+infraspecific_name: strain=TB6
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-06-20
+submitter: Rutgers University

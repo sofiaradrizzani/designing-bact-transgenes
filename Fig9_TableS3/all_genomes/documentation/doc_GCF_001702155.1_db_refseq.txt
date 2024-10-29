@@ -1,0 +1,16 @@
+File Name: GCF_001702155.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001702155.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/702/155/GCF_001702155.1_ASM170215v1/GCF_001702155.1_ASM170215v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:32:41 2023
+refseq_category: representative genome
+assembly_accession: GCF_001702155.1
+bioproject: PRJNA224116
+biosample: SAMN04505735
+taxid: 240427
+infraspecific_name: strain=TMW 1.1979
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-08-10
+submitter: Technische Universitaet Muenchen

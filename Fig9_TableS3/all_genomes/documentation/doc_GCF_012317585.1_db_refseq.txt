@@ -1,0 +1,16 @@
+File Name: GCF_012317585.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_012317585.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/317/585/GCF_012317585.1_ASM1231758v1/GCF_012317585.1_ASM1231758v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:55:12 2023
+refseq_category: representative genome
+assembly_accession: GCF_012317585.1
+bioproject: PRJNA224116
+biosample: SAMN12566302
+taxid: 2047767
+infraspecific_name: strain=SU872
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-04-15
+submitter: IUEM

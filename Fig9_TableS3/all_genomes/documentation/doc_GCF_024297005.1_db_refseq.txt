@@ -1,0 +1,16 @@
+File Name: GCF_024297005.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_024297005.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/297/005/GCF_024297005.1_ASM2429700v1/GCF_024297005.1_ASM2429700v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:59:52 2023
+refseq_category: representative genome
+assembly_accession: GCF_024297005.1
+bioproject: PRJNA224116
+biosample: SAMN29626321
+taxid: 29559
+infraspecific_name: strain=B1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-07-17
+submitter: Institute of Microbiology

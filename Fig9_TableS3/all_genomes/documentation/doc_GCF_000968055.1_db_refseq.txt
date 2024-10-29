@@ -1,0 +1,16 @@
+File Name: GCF_000968055.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000968055.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/968/055/GCF_000968055.1_ASM96805v1/GCF_000968055.1_ASM96805v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:23:49 2023
+refseq_category: representative genome
+assembly_accession: GCF_000968055.1
+bioproject: PRJNA224116
+biosample: SAMEA4532332
+taxid: 1318466
+infraspecific_name: strain=J233
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2013-10-11
+submitter: MPIMG

@@ -1,0 +1,16 @@
+File Name: GCF_000321415.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000321415.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/321/415/GCF_000321415.2_ASM32141v2/GCF_000321415.2_ASM32141v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:26:10 2023
+refseq_category: representative genome
+assembly_accession: GCF_000321415.2
+bioproject: PRJNA224116
+biosample: SAMN02602962
+taxid: 1255043
+infraspecific_name: strain=DSM 14787
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-12-23
+submitter: A.N. Bach Institute of Biochemistry

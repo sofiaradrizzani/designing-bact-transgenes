@@ -1,0 +1,16 @@
+File Name: GCF_000262305.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000262305.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/262/305/GCF_000262305.1_ASM26230v1/GCF_000262305.1_ASM26230v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:37:57 2023
+refseq_category: representative genome
+assembly_accession: GCF_000262305.1
+bioproject: PRJNA224116
+biosample: SAMN02603253
+taxid: 630626
+infraspecific_name: strain=DSM 4481
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-05-10
+submitter: Georg August University Goettingen

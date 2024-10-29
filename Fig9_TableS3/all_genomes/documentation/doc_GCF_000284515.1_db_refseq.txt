@@ -1,0 +1,16 @@
+File Name: GCF_000284515.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000284515.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/284/515/GCF_000284515.1_ASM28451v1/GCF_000284515.1_ASM28451v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:05:40 2023
+refseq_category: representative genome
+assembly_accession: GCF_000284515.1
+bioproject: PRJNA224116
+biosample: SAMEA2272168
+taxid: 866895
+infraspecific_name: strain=type strain: DSM 2266
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-04-11
+submitter: Max-Planck-Institute of Biochemistry

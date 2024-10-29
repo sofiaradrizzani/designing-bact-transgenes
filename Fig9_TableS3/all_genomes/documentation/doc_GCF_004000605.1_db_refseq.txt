@@ -1,0 +1,16 @@
+File Name: GCF_004000605.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004000605.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/000/605/GCF_004000605.1_ASM400060v1/GCF_004000605.1_ASM400060v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:28:47 2023
+refseq_category: representative genome
+assembly_accession: GCF_004000605.1
+bioproject: PRJNA224116
+biosample: SAMN02442382
+taxid: 1434191
+infraspecific_name: strain=6B-8
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-01-08
+submitter: College of Engineering, Peking University

@@ -1,0 +1,16 @@
+File Name: GCF_011745665.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_011745665.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/745/665/GCF_011745665.1_ASM1174566v1/GCF_011745665.1_ASM1174566v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:38:44 2023
+refseq_category: representative genome
+assembly_accession: GCF_011745665.1
+bioproject: PRJNA224116
+biosample: SAMN14395376
+taxid: 1635327
+infraspecific_name: strain=IPMB12
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-03-25
+submitter: Academia Sinica

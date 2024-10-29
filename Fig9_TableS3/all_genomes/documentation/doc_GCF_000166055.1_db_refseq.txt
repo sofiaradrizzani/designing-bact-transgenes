@@ -1,0 +1,16 @@
+File Name: GCF_000166055.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000166055.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/166/055/GCF_000166055.1_ASM16605v1/GCF_000166055.1_ASM16605v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:41:12 2023
+refseq_category: representative genome
+assembly_accession: GCF_000166055.1
+bioproject: PRJNA224116
+biosample: SAMN00007427
+taxid: 648757
+infraspecific_name: strain=ATCC 17100
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-11-05
+submitter: US DOE Joint Genome Institute (JGI-PGF)

@@ -1,0 +1,16 @@
+File Name: GCF_003119195.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003119195.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/119/195/GCF_003119195.2_ASM311919v2/GCF_003119195.2_ASM311919v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:46:25 2023
+refseq_category: representative genome
+assembly_accession: GCF_003119195.2
+bioproject: PRJNA224116
+biosample: SAMN07274326
+taxid: 1064539
+infraspecific_name: strain=Sp245
+version_status: latest
+release_type: Minor
+genome_rep: Full
+seq_rel_date: 2018-05-11
+submitter: University of Minnesota

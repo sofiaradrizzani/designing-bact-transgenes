@@ -1,0 +1,16 @@
+File Name: GCF_000013025.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000013025.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/025/GCF_000013025.1_ASM1302v1/GCF_000013025.1_ASM1302v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:39:42 2023
+refseq_category: representative genome
+assembly_accession: GCF_000013025.1
+bioproject: PRJNA224116
+biosample: SAMN02604041
+taxid: 228405
+infraspecific_name: strain=ATCC 15444
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2006-09-18
+submitter: TIGR

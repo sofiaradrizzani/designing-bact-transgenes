@@ -1,0 +1,16 @@
+File Name: GCF_001310085.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001310085.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/310/085/GCF_001310085.1_ASM131008v1/GCF_001310085.1_ASM131008v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:21:49 2023
+refseq_category: representative genome
+assembly_accession: GCF_001310085.1
+bioproject: PRJNA224116
+biosample: SAMN02711851
+taxid: 512763
+infraspecific_name: strain=1351
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-10-09
+submitter: Hubei University of Technology

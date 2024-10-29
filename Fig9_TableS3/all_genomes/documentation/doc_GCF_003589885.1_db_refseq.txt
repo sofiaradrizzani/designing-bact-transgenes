@@ -1,0 +1,16 @@
+File Name: GCF_003589885.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003589885.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/589/885/GCF_003589885.1_ASM358988v1/GCF_003589885.1_ASM358988v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:15:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_003589885.1
+bioproject: PRJNA224116
+biosample: SAMN10022831
+taxid: 1411117
+infraspecific_name: strain=YIM 77502
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-09-24
+submitter: Sun Yat-Sen University

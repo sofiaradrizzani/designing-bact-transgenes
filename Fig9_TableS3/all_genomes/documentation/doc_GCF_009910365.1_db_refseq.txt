@@ -1,0 +1,16 @@
+File Name: GCF_009910365.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009910365.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/910/365/GCF_009910365.1_ASM991036v1/GCF_009910365.1_ASM991036v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:04:15 2023
+refseq_category: representative genome
+assembly_accession: GCF_009910365.1
+bioproject: PRJNA224116
+biosample: SAMN10929367
+taxid: 2518989
+infraspecific_name: strain=IMCC3088
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-01-21
+submitter: INHA UNIVERSITY

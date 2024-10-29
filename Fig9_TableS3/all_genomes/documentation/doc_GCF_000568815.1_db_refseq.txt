@@ -1,0 +1,16 @@
+File Name: GCF_000568815.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000568815.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/568/815/GCF_000568815.1_ASM56881v1/GCF_000568815.1_ASM56881v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:25:23 2023
+refseq_category: representative genome
+assembly_accession: GCF_000568815.1
+bioproject: PRJNA224116
+biosample: SAMN03081532
+taxid: 1150621
+infraspecific_name: strain=DSM 12446
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-02-13
+submitter: Friedrich-Schiller-University of Jena

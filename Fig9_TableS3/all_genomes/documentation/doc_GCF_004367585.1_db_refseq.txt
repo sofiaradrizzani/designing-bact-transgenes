@@ -1,0 +1,16 @@
+File Name: GCF_004367585.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004367585.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/367/585/GCF_004367585.1_ASM436758v1/GCF_004367585.1_ASM436758v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:09:28 2023
+refseq_category: representative genome
+assembly_accession: GCF_004367585.1
+bioproject: PRJNA224116
+biosample: SAMN11164061
+taxid: 417367
+infraspecific_name: strain=CGMCC 1.6503
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-03-22
+submitter: Dalian University

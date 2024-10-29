@@ -1,0 +1,16 @@
+File Name: GCF_020091425.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_020091425.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/091/425/GCF_020091425.1_ASM2009142v1/GCF_020091425.1_ASM2009142v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:46:25 2023
+refseq_category: representative genome
+assembly_accession: GCF_020091425.1
+bioproject: PRJNA224116
+biosample: SAMN15547026
+taxid: 328812
+infraspecific_name: strain=BFG-241
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-09-22
+submitter: National Institute of Allergy and Infectious Disease

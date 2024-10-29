@@ -1,0 +1,16 @@
+File Name: GCF_008000995.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008000995.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/000/995/GCF_008000995.1_ASM800099v1/GCF_008000995.1_ASM800099v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:11:43 2023
+refseq_category: representative genome
+assembly_accession: GCF_008000995.1
+bioproject: PRJNA224116
+biosample: SAMN12551600
+taxid: 2603206
+infraspecific_name: strain=HY168
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-08-18
+submitter: Chinese Center for Disease Control and Prevention

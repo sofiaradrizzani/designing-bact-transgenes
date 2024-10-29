@@ -1,0 +1,16 @@
+File Name: GCF_000165505.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000165505.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/165/505/GCF_000165505.1_ASM16550v1/GCF_000165505.1_ASM16550v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:31:52 2023
+refseq_category: representative genome
+assembly_accession: GCF_000165505.1
+bioproject: PRJNA224116
+biosample: SAMN00116458
+taxid: 572544
+infraspecific_name: strain=DSM 2926
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-10-22
+submitter: US DOE Joint Genome Institute (JGI-PGF)

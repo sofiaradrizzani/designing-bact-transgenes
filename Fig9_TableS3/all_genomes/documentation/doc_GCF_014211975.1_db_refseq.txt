@@ -1,0 +1,16 @@
+File Name: GCF_014211975.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_014211975.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/211/975/GCF_014211975.1_ASM1421197v1/GCF_014211975.1_ASM1421197v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:18:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_014211975.1
+bioproject: PRJNA224116
+biosample: SAMN15754002
+taxid: 2731755
+infraspecific_name: strain=Bs08
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-08-16
+submitter: DOE Joint Genome Institute

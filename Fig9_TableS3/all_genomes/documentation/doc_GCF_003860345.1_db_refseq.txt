@@ -1,0 +1,16 @@
+File Name: GCF_003860345.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003860345.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/860/345/GCF_003860345.1_ASM386034v1/GCF_003860345.1_ASM386034v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:16:22 2023
+refseq_category: representative genome
+assembly_accession: GCF_003860345.1
+bioproject: PRJNA224116
+biosample: SAMD00041832
+taxid: 1219035
+infraspecific_name: strain=NBRC 16725
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-12-04
+submitter: CSIC

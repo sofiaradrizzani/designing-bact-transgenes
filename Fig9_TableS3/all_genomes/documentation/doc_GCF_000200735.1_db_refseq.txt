@@ -1,0 +1,16 @@
+File Name: GCF_000200735.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000200735.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/200/735/GCF_000200735.1_ASM20073v1/GCF_000200735.1_ASM20073v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:00:14 2023
+refseq_category: representative genome
+assembly_accession: GCF_000200735.1
+bioproject: PRJNA224116
+biosample: SAMEA2272171
+taxid: 941640
+infraspecific_name: strain=Langford 1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2011-01-20
+submitter: Centre for Genomic Research, Institute of Integrative Biology, University of Liverpool

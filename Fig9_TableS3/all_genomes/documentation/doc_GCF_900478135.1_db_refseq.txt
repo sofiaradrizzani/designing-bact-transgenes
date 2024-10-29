@@ -1,0 +1,16 @@
+File Name: GCF_900478135.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_900478135.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/478/135/GCF_900478135.1_28193_H01/GCF_900478135.1_28193_H01_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:30:44 2023
+refseq_category: representative genome
+assembly_accession: GCF_900478135.1
+bioproject: PRJNA224116
+biosample: SAMEA2548145
+taxid: 158841
+infraspecific_name: strain=NCTC12151
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-06-17
+submitter: SC

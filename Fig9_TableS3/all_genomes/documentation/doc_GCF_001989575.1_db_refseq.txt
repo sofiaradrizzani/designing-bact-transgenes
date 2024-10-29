@@ -1,0 +1,16 @@
+File Name: GCF_001989575.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001989575.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/989/575/GCF_001989575.1_ASM198957v1/GCF_001989575.1_ASM198957v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:45:32 2023
+refseq_category: representative genome
+assembly_accession: GCF_001989575.1
+bioproject: PRJNA224116
+biosample: SAMN06196447
+taxid: 1817405
+infraspecific_name: strain=S31
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-02-07
+submitter: Institute of Genomics and Integrative Biology

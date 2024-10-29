@@ -1,0 +1,16 @@
+File Name: GCF_004358345.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004358345.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/358/345/GCF_004358345.1_ASM435834v1/GCF_004358345.1_ASM435834v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:56:38 2023
+refseq_category: representative genome
+assembly_accession: GCF_004358345.1
+bioproject: PRJNA224116
+biosample: SAMN11111039
+taxid: 342950
+infraspecific_name: strain=HJ039
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-03-20
+submitter: Korea Institue of Ocean Science and Technology

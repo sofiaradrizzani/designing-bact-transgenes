@@ -1,0 +1,16 @@
+File Name: GCF_027286365.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_027286365.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/027/286/365/GCF_027286365.1_ASM2728636v1/GCF_027286365.1_ASM2728636v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:55:23 2023
+refseq_category: representative genome
+assembly_accession: GCF_027286365.1
+bioproject: PRJNA224116
+biosample: SAMN30929271
+taxid: 334715
+infraspecific_name: strain=TGB10
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-12-26
+submitter: Beijing University of Chemical Technology

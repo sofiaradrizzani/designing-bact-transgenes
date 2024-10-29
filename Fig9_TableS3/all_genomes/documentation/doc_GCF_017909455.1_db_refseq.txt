@@ -1,0 +1,16 @@
+File Name: GCF_017909455.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_017909455.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/909/455/GCF_017909455.1_ASM1790945v1/GCF_017909455.1_ASM1790945v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:28:10 2023
+refseq_category: representative genome
+assembly_accession: GCF_017909455.1
+bioproject: PRJNA224116
+biosample: SAMN17166486
+taxid: 138532
+infraspecific_name: strain=BRIP:70614
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-04-12
+submitter: University of Southern Queensland

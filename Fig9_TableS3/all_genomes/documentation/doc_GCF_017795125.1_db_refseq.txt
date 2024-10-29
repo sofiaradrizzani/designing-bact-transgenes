@@ -1,0 +1,16 @@
+File Name: GCF_017795125.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_017795125.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/795/125/GCF_017795125.1_ASM1779512v1/GCF_017795125.1_ASM1779512v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:22:36 2023
+refseq_category: representative genome
+assembly_accession: GCF_017795125.1
+bioproject: PRJNA224116
+biosample: SAMN14492344
+taxid: 1461694
+infraspecific_name: na
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-04-06
+submitter: American Museum of Natural History

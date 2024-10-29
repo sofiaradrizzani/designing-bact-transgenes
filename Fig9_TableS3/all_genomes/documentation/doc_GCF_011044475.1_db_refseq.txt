@@ -1,0 +1,16 @@
+File Name: GCF_011044475.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_011044475.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/044/475/GCF_011044475.1_ASM1104447v1/GCF_011044475.1_ASM1104447v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:42:23 2023
+refseq_category: representative genome
+assembly_accession: GCF_011044475.1
+bioproject: PRJNA224116
+biosample: SAMN14150199
+taxid: 66269
+infraspecific_name: strain=ZJ-FGZX1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-03-01
+submitter: Guangdong Ocean University

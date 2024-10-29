@@ -1,0 +1,16 @@
+File Name: GCF_018141405.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_018141405.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/141/405/GCF_018141405.1_ASM1814140v1/GCF_018141405.1_ASM1814140v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:41:19 2023
+refseq_category: representative genome
+assembly_accession: GCF_018141405.1
+bioproject: PRJNA224116
+biosample: SAMN14689429
+taxid: 1734049
+infraspecific_name: strain=3B
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-04-27
+submitter: Mediterranean Institute of Oceanography (MIO), UMR 7294

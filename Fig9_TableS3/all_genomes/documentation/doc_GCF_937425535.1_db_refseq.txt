@@ -1,0 +1,16 @@
+File Name: GCF_937425535.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_937425535.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/937/425/535/GCF_937425535.1_Rhodovastum_atsumiense_G2-11/GCF_937425535.1_Rhodovastum_atsumiense_G2-11_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:20:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_937425535.1
+bioproject: PRJNA224116
+biosample: SAMEA13915331
+taxid: 504468
+infraspecific_name: strain=G2-11
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-05-03
+submitter: Genoscope CEA

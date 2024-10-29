@@ -1,0 +1,16 @@
+File Name: GCF_016925655.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_016925655.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/925/655/GCF_016925655.1_ASM1692565v1/GCF_016925655.1_ASM1692565v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:46:55 2023
+refseq_category: representative genome
+assembly_accession: GCF_016925655.1
+bioproject: PRJNA224116
+biosample: SAMN16125023
+taxid: 2055955
+infraspecific_name: strain=SS-21NJ
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-02-24
+submitter: Nanjing Institute of Environmental Sciences

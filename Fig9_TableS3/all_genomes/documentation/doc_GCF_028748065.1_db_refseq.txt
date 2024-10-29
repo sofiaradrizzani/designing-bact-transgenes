@@ -1,0 +1,16 @@
+File Name: GCF_028748065.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_028748065.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/748/065/GCF_028748065.1_ASM2874806v1/GCF_028748065.1_ASM2874806v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:47:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_028748065.1
+bioproject: PRJNA224116
+biosample: SAMN33282959
+taxid: 1866326
+infraspecific_name: strain=MCCC 1K03223
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2023-02-21
+submitter: The Affiliated Yantai Yuhuangding Hospital of Qingdao University

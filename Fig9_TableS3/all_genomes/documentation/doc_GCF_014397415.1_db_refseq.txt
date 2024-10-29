@@ -1,0 +1,16 @@
+File Name: GCF_014397415.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_014397415.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/397/415/GCF_014397415.1_ASM1439741v1/GCF_014397415.1_ASM1439741v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:27:30 2023
+refseq_category: representative genome
+assembly_accession: GCF_014397415.1
+bioproject: PRJNA224116
+biosample: SAMN15904586
+taxid: 128785
+infraspecific_name: strain=GTZY2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-09-02
+submitter: Research Center for Eco-Environmental Sciences (RCEES)

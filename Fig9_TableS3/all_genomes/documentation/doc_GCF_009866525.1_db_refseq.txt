@@ -1,0 +1,16 @@
+File Name: GCF_009866525.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009866525.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/866/525/GCF_009866525.1_ASM986652v1/GCF_009866525.1_ASM986652v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:00:22 2023
+refseq_category: representative genome
+assembly_accession: GCF_009866525.1
+bioproject: PRJNA224116
+biosample: SAMN11349289
+taxid: 2138
+infraspecific_name: strain=MSRO_BK
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-01-14
+submitter: Academia Sinica

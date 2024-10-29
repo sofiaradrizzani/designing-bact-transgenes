@@ -1,0 +1,16 @@
+File Name: GCF_011682235.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_011682235.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/682/235/GCF_011682235.2_ASM1168223v2/GCF_011682235.2_ASM1168223v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:07:31 2023
+refseq_category: representative genome
+assembly_accession: GCF_011682235.2
+bioproject: PRJNA224116
+biosample: SAMN13622840
+taxid: 2558931
+infraspecific_name: strain=ISCAR-4553
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-08-05
+submitter: Matis ltd.

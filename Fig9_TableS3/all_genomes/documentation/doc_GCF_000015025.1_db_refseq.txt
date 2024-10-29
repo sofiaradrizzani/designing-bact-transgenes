@@ -1,0 +1,16 @@
+File Name: GCF_000015025.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000015025.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/025/GCF_000015025.1_ASM1502v1/GCF_000015025.1_ASM1502v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:57:45 2023
+refseq_category: representative genome
+assembly_accession: GCF_000015025.1
+bioproject: PRJNA224116
+biosample: SAMN02598358
+taxid: 351607
+infraspecific_name: strain=11B; ATCC 43068
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2006-11-09
+submitter: DOE Joint Genome Institute

@@ -1,0 +1,16 @@
+File Name: GCF_000019965.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000019965.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/965/GCF_000019965.1_ASM1996v1/GCF_000019965.1_ASM1996v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:13:40 2023
+refseq_category: representative genome
+assembly_accession: GCF_000019965.1
+bioproject: PRJNA224116
+biosample: SAMN00000285
+taxid: 452637
+infraspecific_name: strain=PB90-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2008-04-08
+submitter: US DOE Joint Genome Institute

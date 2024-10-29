@@ -1,0 +1,16 @@
+File Name: GCF_002355735.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002355735.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/355/735/GCF_002355735.1_ASM235573v1/GCF_002355735.1_ASM235573v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:38:14 2023
+refseq_category: representative genome
+assembly_accession: GCF_002355735.1
+bioproject: PRJNA224116
+biosample: SAMD00031266
+taxid: 1620215
+infraspecific_name: strain=HA5
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-07-30
+submitter: The Institute of Low Temperature Science, Hokkaido University

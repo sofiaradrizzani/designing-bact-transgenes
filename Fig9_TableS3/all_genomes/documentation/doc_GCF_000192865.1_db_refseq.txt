@@ -1,0 +1,16 @@
+File Name: GCF_000192865.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000192865.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/192/865/GCF_000192865.1_ASM19286v1/GCF_000192865.1_ASM19286v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:33:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_000192865.1
+bioproject: PRJNA224116
+biosample: SAMN00713593
+taxid: 717774
+infraspecific_name: strain=MMB-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2011-03-22
+submitter: US DOE Joint Genome Institute

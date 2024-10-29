@@ -1,0 +1,16 @@
+File Name: GCF_002201795.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002201795.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/201/795/GCF_002201795.1_ASM220179v1/GCF_002201795.1_ASM220179v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:00:29 2023
+refseq_category: representative genome
+assembly_accession: GCF_002201795.1
+bioproject: PRJNA224116
+biosample: SAMN07200443
+taxid: 889453
+infraspecific_name: strain=SC/BZ-SP2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-06-20
+submitter: Chinese Academy of Agricultural Sciences

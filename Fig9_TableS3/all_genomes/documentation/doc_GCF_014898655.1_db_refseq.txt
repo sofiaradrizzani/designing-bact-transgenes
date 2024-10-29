@@ -1,0 +1,16 @@
+File Name: GCF_014898655.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_014898655.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/898/655/GCF_014898655.1_ASM1489865v1/GCF_014898655.1_ASM1489865v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:55:25 2023
+refseq_category: representative genome
+assembly_accession: GCF_014898655.1
+bioproject: PRJNA224116
+biosample: SAMN12784816
+taxid: 97478
+infraspecific_name: strain=LM011
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-10-20
+submitter: Korea University

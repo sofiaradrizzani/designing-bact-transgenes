@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GCF_002277955.1_genomic_refseq.fna.gz	GCF_002277955.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/277/955/GCF_002277955.1_ASM227795v1/GCF_002277955.1_ASM227795v1_cds_from_genomic.fna.gz	refseq	/Users/sofiaradrizzani/Documents/Scripts/Fivecodons/Data/all_genomes/bacteria_CDS	representative genome	GCF_002277955.1	PRJNA224116	SAMN06043589	1331910	strain=R1	latest	Major	Full	2017-08-30	Hotzyme

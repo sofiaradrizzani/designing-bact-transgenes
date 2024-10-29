@@ -1,0 +1,16 @@
+File Name: GCF_003325355.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003325355.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/325/355/GCF_003325355.1_ASM332535v1/GCF_003325355.1_ASM332535v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:53:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_003325355.1
+bioproject: PRJNA224116
+biosample: SAMN09536026
+taxid: 2259595
+infraspecific_name: strain=HYN0085
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-07-17
+submitter: Korea University

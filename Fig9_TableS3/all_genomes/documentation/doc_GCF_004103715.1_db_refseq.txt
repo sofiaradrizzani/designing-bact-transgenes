@@ -1,0 +1,16 @@
+File Name: GCF_004103715.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004103715.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/103/715/GCF_004103715.1_ASM410371v1/GCF_004103715.1_ASM410371v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:03:14 2023
+refseq_category: representative genome
+assembly_accession: GCF_004103715.1
+bioproject: PRJNA224116
+biosample: SAMN10743633
+taxid: 2507161
+infraspecific_name: strain=JN-28
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-01-23
+submitter: Biogas Institute of Ministry of Agriculture

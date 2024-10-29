@@ -1,0 +1,16 @@
+File Name: GCF_002812485.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002812485.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/812/485/GCF_002812485.1_ASM281248v1/GCF_002812485.1_ASM281248v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:35:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_002812485.1
+bioproject: PRJNA224116
+biosample: SAMN08038254
+taxid: 1778540
+infraspecific_name: strain=DSM 101947
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-12-06
+submitter: Bacteria

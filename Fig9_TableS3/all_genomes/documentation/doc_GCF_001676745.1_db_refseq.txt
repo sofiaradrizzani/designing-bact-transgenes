@@ -1,0 +1,16 @@
+File Name: GCF_001676745.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001676745.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/676/745/GCF_001676745.1_ASM167674v1/GCF_001676745.1_ASM167674v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:41:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_001676745.1
+bioproject: PRJNA224116
+biosample: SAMN05257179
+taxid: 463025
+infraspecific_name: strain=AU17976
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-06-27
+submitter: University of Michigan

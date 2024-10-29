@@ -1,0 +1,16 @@
+File Name: GCF_003429285.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003429285.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/429/285/GCF_003429285.1_ASM342928v1/GCF_003429285.1_ASM342928v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:00:55 2023
+refseq_category: representative genome
+assembly_accession: GCF_003429285.1
+bioproject: PRJNA224116
+biosample: SAMN09858433
+taxid: 2303538
+infraspecific_name: strain=N102
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-08-28
+submitter: Shanghai Ocean University

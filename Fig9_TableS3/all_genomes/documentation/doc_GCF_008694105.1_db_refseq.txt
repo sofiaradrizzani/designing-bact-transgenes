@@ -1,0 +1,16 @@
+File Name: GCF_008694105.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008694105.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/694/105/GCF_008694105.1_ASM869410v1/GCF_008694105.1_ASM869410v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:49:18 2023
+refseq_category: representative genome
+assembly_accession: GCF_008694105.1
+bioproject: PRJNA224116
+biosample: SAMN12217290
+taxid: 304207
+infraspecific_name: strain=NSMJ42
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-09-25
+submitter: Nakdonggang National Institute of Biological Resources

@@ -1,0 +1,16 @@
+File Name: GCF_020162115.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_020162115.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/162/115/GCF_020162115.1_ASM2016211v1/GCF_020162115.1_ASM2016211v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:49:28 2023
+refseq_category: representative genome
+assembly_accession: GCF_020162115.1
+bioproject: PRJNA224116
+biosample: SAMN21531155
+taxid: 307486
+infraspecific_name: strain=LMG 22826
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-09-28
+submitter: Brno University of Technology

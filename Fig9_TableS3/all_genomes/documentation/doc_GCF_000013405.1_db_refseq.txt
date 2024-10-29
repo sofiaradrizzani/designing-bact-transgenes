@@ -1,0 +1,16 @@
+File Name: GCF_000013405.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000013405.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/405/GCF_000013405.1_ASM1340v1/GCF_000013405.1_ASM1340v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:14:54 2023
+refseq_category: representative genome
+assembly_accession: GCF_000013405.1
+bioproject: PRJNA224116
+biosample: SAMN02603418
+taxid: 56780
+infraspecific_name: strain=SB
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2006-01-26
+submitter: Integrated Genomics

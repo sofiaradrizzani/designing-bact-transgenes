@@ -1,0 +1,16 @@
+File Name: GCF_008274805.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008274805.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/274/805/GCF_008274805.1_ASM827480v1/GCF_008274805.1_ASM827480v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:41:28 2023
+refseq_category: representative genome
+assembly_accession: GCF_008274805.1
+bioproject: PRJNA224116
+biosample: SAMN06840935
+taxid: 1735038
+infraspecific_name: strain=TPP412
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-09-05
+submitter: Academia Sinica

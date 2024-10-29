@@ -1,0 +1,16 @@
+File Name: GCF_008087625.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_008087625.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/087/625/GCF_008087625.1_ASM808762v1/GCF_008087625.1_ASM808762v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:06:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_008087625.1
+bioproject: PRJNA224116
+biosample: SAMN10980024
+taxid: 406548
+infraspecific_name: strain=OJF2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-08-26
+submitter: Radboud Universiteit Nijmegen

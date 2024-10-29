@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GCF_000236685.1_genomic_refseq.fna.gz	GCF_000236685.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/236/685/GCF_000236685.1_ASM23668v1/GCF_000236685.1_ASM23668v1_cds_from_genomic.fna.gz	refseq	/Users/sofiaradrizzani/Documents/Scripts/Fivecodons/Data/all_genomes/bacteria_CDS	representative genome	GCF_000236685.1	PRJNA224116	SAMN02261363	158190	strain=Grapes	latest	Major	Full	2011-12-05	JGI

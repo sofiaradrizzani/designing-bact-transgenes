@@ -1,0 +1,16 @@
+File Name: GCF_022637515.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_022637515.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/637/515/GCF_022637515.1_ASM2263751v1/GCF_022637515.1_ASM2263751v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:21:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_022637515.1
+bioproject: PRJNA224116
+biosample: SAMN26520706
+taxid: 82989
+infraspecific_name: strain=H4-C11
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-03-21
+submitter: Exploratories for large-scale and long-term functional biodiversity research

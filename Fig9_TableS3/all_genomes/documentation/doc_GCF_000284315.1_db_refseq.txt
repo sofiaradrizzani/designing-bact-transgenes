@@ -1,0 +1,16 @@
+File Name: GCF_000284315.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000284315.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/284/315/GCF_000284315.1_ASM28431v1/GCF_000284315.1_ASM28431v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:12:44 2023
+refseq_category: representative genome
+assembly_accession: GCF_000284315.1
+bioproject: PRJNA224116
+biosample: SAMD00061058
+taxid: 1162668
+infraspecific_name: strain=C2-3
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-03-30
+submitter: Ibaraki University, college of agriculture

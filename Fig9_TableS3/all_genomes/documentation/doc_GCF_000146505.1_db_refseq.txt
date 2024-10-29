@@ -1,0 +1,16 @@
+File Name: GCF_000146505.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000146505.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/505/GCF_000146505.1_ASM14650v1/GCF_000146505.1_ASM14650v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:15:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_000146505.1
+bioproject: PRJNA224116
+biosample: SAMN02603971
+taxid: 59374
+infraspecific_name: strain=S85
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2010-08-06
+submitter: TIGR

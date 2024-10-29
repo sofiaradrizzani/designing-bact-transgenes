@@ -1,0 +1,16 @@
+File Name: GCF_019443285.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_019443285.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/443/285/GCF_019443285.1_ASM1944328v1/GCF_019443285.1_ASM1944328v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:36:08 2023
+refseq_category: representative genome
+assembly_accession: GCF_019443285.1
+bioproject: PRJNA224116
+biosample: SAMN20368533
+taxid: 1550733
+infraspecific_name: strain=DS48-3
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-08-03
+submitter: Quanzhou Normal University

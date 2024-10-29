@@ -1,0 +1,16 @@
+File Name: GCF_002043005.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002043005.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/043/005/GCF_002043005.1_ASM204300v1/GCF_002043005.1_ASM204300v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:10:22 2023
+refseq_category: representative genome
+assembly_accession: GCF_002043005.1
+bioproject: PRJNA224116
+biosample: SAMN02441730
+taxid: 1122214
+infraspecific_name: strain=MACL11
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-03-20
+submitter: Leibniz Institute DSMZ

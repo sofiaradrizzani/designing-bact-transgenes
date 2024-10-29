@@ -1,0 +1,16 @@
+File Name: GCF_000019165.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000019165.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/165/GCF_000019165.1_ASM1916v1/GCF_000019165.1_ASM1916v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:19:45 2023
+refseq_category: representative genome
+assembly_accession: GCF_000019165.1
+bioproject: PRJNA224116
+biosample: SAMN02602985
+taxid: 498761
+infraspecific_name: strain=Ice1; ATCC 51547
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2008-04-01
+submitter: Arizona State University

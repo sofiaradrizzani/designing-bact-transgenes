@@ -1,0 +1,16 @@
+File Name: GCF_022879815.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_022879815.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/879/815/GCF_022879815.1_ASM2287981v1/GCF_022879815.1_ASM2287981v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:52:19 2023
+refseq_category: representative genome
+assembly_accession: GCF_022879815.1
+bioproject: PRJNA224116
+biosample: SAMN21547024
+taxid: 871203
+infraspecific_name: strain=A33_M4_a
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-04-11
+submitter: University of Texas at Arlington

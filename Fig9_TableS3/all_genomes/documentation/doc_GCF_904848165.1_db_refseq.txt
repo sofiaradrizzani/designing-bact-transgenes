@@ -1,0 +1,16 @@
+File Name: GCF_904848165.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_904848165.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/904/848/165/GCF_904848165.1_ASM90484816v1/GCF_904848165.1_ASM90484816v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:11:24 2023
+refseq_category: representative genome
+assembly_accession: GCF_904848165.1
+bioproject: PRJNA224116
+biosample: SAMEA7339714
+taxid: 256326
+infraspecific_name: na
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-11-01
+submitter: MAX PLANCK INSTITUTE FOR DEVELOPMENTAL BIOLOGY

@@ -1,0 +1,16 @@
+File Name: GCF_000012665.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000012665.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/012/665/GCF_000012665.1_ASM1266v1/GCF_000012665.1_ASM1266v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:36:04 2023
+refseq_category: representative genome
+assembly_accession: GCF_000012665.1
+bioproject: PRJNA224116
+biosample: SAMN02598492
+taxid: 207559
+infraspecific_name: strain=G20
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2005-10-28
+submitter: DOE Joint Genome Institute

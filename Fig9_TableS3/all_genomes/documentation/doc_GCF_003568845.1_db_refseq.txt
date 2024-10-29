@@ -1,0 +1,16 @@
+File Name: GCF_003568845.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003568845.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/568/845/GCF_003568845.1_ASM356884v1/GCF_003568845.1_ASM356884v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:59:34 2023
+refseq_category: representative genome
+assembly_accession: GCF_003568845.1
+bioproject: PRJNA224116
+biosample: SAMN09405541
+taxid: 2220096
+infraspecific_name: strain=SCSIO 08040
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-09-13
+submitter: South China Sea Institute of Oceanology, Chinese Academy of Sciences

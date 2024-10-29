@@ -1,0 +1,16 @@
+File Name: GCF_002269385.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002269385.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/269/385/GCF_002269385.1_ASM226938v1/GCF_002269385.1_ASM226938v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:53:06 2023
+refseq_category: representative genome
+assembly_accession: GCF_002269385.1
+bioproject: PRJNA224116
+biosample: SAMN07514628
+taxid: 1178778
+infraspecific_name: strain=B1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-08-24
+submitter: Second Institute of Oceanography, State Oceanic Administration

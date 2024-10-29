@@ -1,0 +1,16 @@
+File Name: GCF_010669205.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_010669205.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/669/205/GCF_010669205.1_ASM1066920v1/GCF_010669205.1_ASM1066920v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:07:23 2023
+refseq_category: representative genome
+assembly_accession: GCF_010669205.1
+bioproject: PRJNA224116
+biosample: SAMN13925607
+taxid: 1121114
+infraspecific_name: strain=JCM 1471
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-02-17
+submitter: National Institute of Advanced Industrial Science and Technology, Biomedical Research Institute

@@ -1,0 +1,16 @@
+File Name: GCF_002762215.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002762215.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/762/215/GCF_002762215.1_ASM276221v1/GCF_002762215.1_ASM276221v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:03:50 2023
+refseq_category: representative genome
+assembly_accession: GCF_002762215.1
+bioproject: PRJNA224116
+biosample: SAMN07709032
+taxid: 946333
+infraspecific_name: strain=NBRC 109400
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-11-08
+submitter: Zhejiang Academy of Agricultural Sciences

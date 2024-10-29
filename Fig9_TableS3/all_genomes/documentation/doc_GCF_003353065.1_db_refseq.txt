@@ -1,0 +1,16 @@
+File Name: GCF_003353065.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003353065.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/353/065/GCF_003353065.1_ASM335306v1/GCF_003353065.1_ASM335306v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:30:48 2023
+refseq_category: representative genome
+assembly_accession: GCF_003353065.1
+bioproject: PRJNA224116
+biosample: SAMN07284862
+taxid: 1457365
+infraspecific_name: strain=Omega
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-08-02
+submitter: Immanuel Kant Baltic Federal University

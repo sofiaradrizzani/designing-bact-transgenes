@@ -1,0 +1,16 @@
+File Name: GCF_001956985.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001956985.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/956/985/GCF_001956985.1_ASM195698v1/GCF_001956985.1_ASM195698v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:26:25 2023
+refseq_category: representative genome
+assembly_accession: GCF_001956985.1
+bioproject: PRJNA224116
+biosample: SAMN06044225
+taxid: 1387353
+infraspecific_name: strain=PX4
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-01-19
+submitter: Research Center of Biotechnology of RAS

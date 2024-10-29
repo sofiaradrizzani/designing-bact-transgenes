@@ -1,0 +1,16 @@
+File Name: GCF_000265385.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000265385.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/265/385/GCF_000265385.1_ASM26538v1/GCF_000265385.1_ASM26538v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:51:06 2023
+refseq_category: representative genome
+assembly_accession: GCF_000265385.1
+bioproject: PRJNA224116
+biosample: SAMN02232006
+taxid: 746697
+infraspecific_name: strain=DSM 14238
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-06-08
+submitter: DOE Joint Genome Institute

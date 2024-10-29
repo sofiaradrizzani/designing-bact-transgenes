@@ -1,0 +1,16 @@
+File Name: GCF_018736045.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_018736045.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/736/045/GCF_018736045.1_ASM1873604v1/GCF_018736045.1_ASM1873604v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:59:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_018736045.1
+bioproject: PRJNA224116
+biosample: SAMN19416144
+taxid: 367791
+infraspecific_name: strain=NBRC:100898
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-06-07
+submitter: National Glycoengineering Research Center

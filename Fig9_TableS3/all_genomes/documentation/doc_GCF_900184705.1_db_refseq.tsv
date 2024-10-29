@@ -1,0 +1,2 @@
+file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
+GCF_900184705.1_genomic_refseq.fna.gz	GCF_900184705.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/184/705/GCF_900184705.1_CAMBI-1/GCF_900184705.1_CAMBI-1_cds_from_genomic.fna.gz	refseq	/Users/sofiaradrizzani/Documents/Scripts/Fivecodons/Data/all_genomes/bacteria_CDS	representative genome	GCF_900184705.1	PRJNA224116	SAMEA104092011	1986204	na	latest	Major	Full	2017-06-06	AALBORG UNIVERSITY

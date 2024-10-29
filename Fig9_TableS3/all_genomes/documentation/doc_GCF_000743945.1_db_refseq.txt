@@ -1,0 +1,16 @@
+File Name: GCF_000743945.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000743945.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/743/945/GCF_000743945.1_ASM74394v1/GCF_000743945.1_ASM74394v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:07:41 2023
+refseq_category: representative genome
+assembly_accession: GCF_000743945.1
+bioproject: PRJNA224116
+biosample: SAMN02940631
+taxid: 1072685
+infraspecific_name: strain=DSM 24701
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-08-27
+submitter: Geneva University Hospitals

@@ -1,0 +1,16 @@
+File Name: GCF_000006945.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000006945.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/945/GCF_000006945.2_ASM694v2/GCF_000006945.2_ASM694v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:25:00 2023
+refseq_category: reference genome
+assembly_accession: GCF_000006945.2
+bioproject: PRJNA57799
+biosample: SAMN02604315
+taxid: 99287
+infraspecific_name: strain=LT2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-01-13
+submitter: Washington University Genome Sequencing Center

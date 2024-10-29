@@ -1,0 +1,16 @@
+File Name: GCF_001444425.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001444425.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/444/425/GCF_001444425.1_ASM144442v1/GCF_001444425.1_ASM144442v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:18:21 2023
+refseq_category: representative genome
+assembly_accession: GCF_001444425.1
+bioproject: PRJNA224116
+biosample: SAMN04260401
+taxid: 1249552
+infraspecific_name: strain=KCTC 32221
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-11-17
+submitter: KCTC (Korean Collection for Type Cultures)

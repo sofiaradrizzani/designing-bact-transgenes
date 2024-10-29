@@ -1,0 +1,16 @@
+File Name: GCF_001687545.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001687545.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/687/545/GCF_001687545.1_ASM168754v1/GCF_001687545.1_ASM168754v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:40:41 2023
+refseq_category: representative genome
+assembly_accession: GCF_001687545.1
+bioproject: PRJNA224116
+biosample: SAMN04870533
+taxid: 645517
+infraspecific_name: strain=JCM 16345
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-07-20
+submitter: Second Institute of Oceanography, State Oceanic Administration

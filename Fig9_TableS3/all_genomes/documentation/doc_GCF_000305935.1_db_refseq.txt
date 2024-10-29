@@ -1,0 +1,16 @@
+File Name: GCF_000305935.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000305935.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/305/935/GCF_000305935.1_ASM30593v1/GCF_000305935.1_ASM30593v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:08:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_000305935.1
+bioproject: PRJNA224116
+biosample: SAMN02603274
+taxid: 1089553
+infraspecific_name: strain=DSM 12270
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2012-10-17
+submitter: Georg-August-University Goettingen, Genomic and Applied Microbiology, Goettingen Genomics Laboratory

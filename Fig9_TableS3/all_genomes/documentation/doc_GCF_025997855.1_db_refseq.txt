@@ -1,0 +1,16 @@
+File Name: GCF_025997855.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_025997855.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/997/855/GCF_025997855.1_ASM2599785v1/GCF_025997855.1_ASM2599785v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:05:28 2023
+refseq_category: representative genome
+assembly_accession: GCF_025997855.1
+bioproject: PRJNA224116
+biosample: SAMD00518143
+taxid: 200252
+infraspecific_name: strain=ST0316
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-08-03
+submitter: Ion Beam Mutagenesis Takasaki Advanced Radiation Research Institute Quantum Beam Science Research Directorate, National Institutes for Quantum Science and Technology

@@ -1,0 +1,16 @@
+File Name: GCF_007748075.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007748075.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/748/075/GCF_007748075.1_ASM774807v1/GCF_007748075.1_ASM774807v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:04:54 2023
+refseq_category: representative genome
+assembly_accession: GCF_007748075.1
+bioproject: PRJNA224116
+biosample: SAMN10954002
+taxid: 2527982
+infraspecific_name: strain=Pan265
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-31
+submitter: Radboud Universiteit Nijmegen

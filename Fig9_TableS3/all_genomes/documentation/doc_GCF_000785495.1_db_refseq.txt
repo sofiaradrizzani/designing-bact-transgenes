@@ -1,0 +1,16 @@
+File Name: GCF_000785495.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000785495.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/785/495/GCF_000785495.1_ASM78549v1/GCF_000785495.1_ASM78549v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:59:19 2023
+refseq_category: representative genome
+assembly_accession: GCF_000785495.1
+bioproject: PRJNA224116
+biosample: SAMN03009415
+taxid: 2045
+infraspecific_name: strain=VKM Ac-2033D
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-11-19
+submitter: G.K.Skryabin Institute of Biochemistry and Physiology of Microorganisms Russian Academy of Sciences

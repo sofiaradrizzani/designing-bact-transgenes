@@ -1,0 +1,16 @@
+File Name: GCF_002005165.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002005165.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/005/165/GCF_002005165.1_ASM200516v1/GCF_002005165.1_ASM200516v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:31:28 2023
+refseq_category: representative genome
+assembly_accession: GCF_002005165.1
+bioproject: PRJNA224116
+biosample: SAMN06310877
+taxid: 1471761
+infraspecific_name: strain=SG-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-02-21
+submitter: Guangdong Institute of Eco-Environmental Science & Technology

@@ -1,0 +1,16 @@
+File Name: GCF_011067265.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_011067265.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/067/265/GCF_011067265.1_ASM1106726v1/GCF_011067265.1_ASM1106726v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:39:16 2023
+refseq_category: representative genome
+assembly_accession: GCF_011067265.1
+bioproject: PRJNA224116
+biosample: SAMN14066751
+taxid: 1646377
+infraspecific_name: strain=SER3
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-03-08
+submitter: Unversidad Michoacana de San Nicolas de Hidalgo

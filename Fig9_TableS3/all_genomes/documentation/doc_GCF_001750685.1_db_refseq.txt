@@ -1,0 +1,16 @@
+File Name: GCF_001750685.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001750685.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/750/685/GCF_001750685.1_ASM175068v1/GCF_001750685.1_ASM175068v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:28:16 2023
+refseq_category: representative genome
+assembly_accession: GCF_001750685.1
+bioproject: PRJNA224116
+biosample: SAMN05786931
+taxid: 1424294
+infraspecific_name: strain=IRF9
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-10-03
+submitter: Chungbuk National University

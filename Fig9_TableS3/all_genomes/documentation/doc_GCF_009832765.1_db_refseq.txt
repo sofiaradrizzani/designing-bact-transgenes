@@ -1,0 +1,16 @@
+File Name: GCF_009832765.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_009832765.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/832/765/GCF_009832765.1_ASM983276v1/GCF_009832765.1_ASM983276v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:54:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_009832765.1
+bioproject: PRJNA224116
+biosample: SAMN13567894
+taxid: 1588
+infraspecific_name: strain=FLUB
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2020-01-07
+submitter: University of Life Sciences in Lublin

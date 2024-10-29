@@ -1,0 +1,16 @@
+File Name: GCF_007197575.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_007197575.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/197/575/GCF_007197575.1_ASM719757v1/GCF_007197575.1_ASM719757v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:20:39 2023
+refseq_category: representative genome
+assembly_accession: GCF_007197575.1
+bioproject: PRJNA224116
+biosample: SAMN12241745
+taxid: 2594265
+infraspecific_name: strain=H23M54
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-07-20
+submitter: KyungHee University

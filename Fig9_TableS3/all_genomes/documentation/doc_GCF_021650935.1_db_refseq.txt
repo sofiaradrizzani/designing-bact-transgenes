@@ -1,0 +1,16 @@
+File Name: GCF_021650935.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_021650935.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/650/935/GCF_021650935.1_ASM2165093v1/GCF_021650935.1_ASM2165093v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:24:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_021650935.1
+bioproject: PRJNA224116
+biosample: SAMN24969931
+taxid: 96472
+infraspecific_name: strain=CT3
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-01-27
+submitter: Institute of Bioengineering, Research Center of Biotechnology of RAS

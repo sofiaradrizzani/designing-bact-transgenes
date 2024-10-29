@@ -1,0 +1,16 @@
+File Name: GCF_000264765.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000264765.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/264/765/GCF_000264765.2_ASM26476v2/GCF_000264765.2_ASM26476v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:44:13 2023
+refseq_category: representative genome
+assembly_accession: GCF_000264765.2
+bioproject: PRJNA224116
+biosample: SAMN02469761
+taxid: 667120
+infraspecific_name: strain=80813
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2014-08-12
+submitter: State Key Laboratory of Bioreactor Engineering, East China University of Science and Technology

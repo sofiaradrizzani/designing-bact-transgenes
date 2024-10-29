@@ -1,0 +1,16 @@
+File Name: GCF_003855095.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003855095.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/855/095/GCF_003855095.1_ASM385509v1/GCF_003855095.1_ASM385509v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:08:26 2023
+refseq_category: representative genome
+assembly_accession: GCF_003855095.1
+bioproject: PRJNA224116
+biosample: SAMN10160079
+taxid: 2420509
+infraspecific_name: strain=MMS17-SY073
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2018-12-02
+submitter: Chungnam National University

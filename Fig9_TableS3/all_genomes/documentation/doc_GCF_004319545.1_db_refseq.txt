@@ -1,0 +1,16 @@
+File Name: GCF_004319545.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_004319545.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/319/545/GCF_004319545.1_ASM431954v1/GCF_004319545.1_ASM431954v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:00:38 2023
+refseq_category: representative genome
+assembly_accession: GCF_004319545.1
+bioproject: PRJNA224116
+biosample: SAMN10963609
+taxid: 2291
+infraspecific_name: strain=AcRS1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-02-28
+submitter: Aarhus University

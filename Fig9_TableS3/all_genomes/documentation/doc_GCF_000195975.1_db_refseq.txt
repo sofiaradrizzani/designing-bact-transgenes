@@ -1,0 +1,16 @@
+File Name: GCF_000195975.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000195975.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/195/975/GCF_000195975.1_ASM19597v1/GCF_000195975.1_ASM19597v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:22:43 2023
+refseq_category: representative genome
+assembly_accession: GCF_000195975.1
+bioproject: PRJNA224116
+biosample: SAMEA3138327
+taxid: 84588
+infraspecific_name: strain=WH 8102
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2003-08-18
+submitter: DOE Joint Genome Institute

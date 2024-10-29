@@ -1,0 +1,16 @@
+File Name: GCF_000973085.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000973085.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/973/085/GCF_000973085.1_ASM97308v1/GCF_000973085.1_ASM97308v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:33:44 2023
+refseq_category: representative genome
+assembly_accession: GCF_000973085.1
+bioproject: PRJNA224116
+biosample: SAMN03380727
+taxid: 187101
+infraspecific_name: strain=SN35
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-04-17
+submitter: Vaginal Human Microbiome Consortium

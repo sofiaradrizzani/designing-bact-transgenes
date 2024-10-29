@@ -1,0 +1,16 @@
+File Name: GCF_000697965.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000697965.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/697/965/GCF_000697965.2_ASM69796v2/GCF_000697965.2_ASM69796v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:26:01 2023
+refseq_category: representative genome
+assembly_accession: GCF_000697965.2
+bioproject: PRJNA224116
+biosample: SAMN02781308
+taxid: 106592
+infraspecific_name: strain=Casida A
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2016-06-16
+submitter: University of Arizona

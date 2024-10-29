@@ -1,0 +1,16 @@
+File Name: GCF_001999965.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001999965.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/999/965/GCF_001999965.1_ASM199996v1/GCF_001999965.1_ASM199996v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:46:15 2023
+refseq_category: representative genome
+assembly_accession: GCF_001999965.1
+bioproject: PRJNA224116
+biosample: SAMN06284589
+taxid: 1851148
+infraspecific_name: strain=SM-Chi-D1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-02-15
+submitter: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures

@@ -1,0 +1,16 @@
+File Name: GCF_002157225.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002157225.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/157/225/GCF_002157225.2_ASM215722v2/GCF_002157225.2_ASM215722v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:41:51 2023
+refseq_category: representative genome
+assembly_accession: GCF_002157225.2
+bioproject: PRJNA224116
+biosample: SAMN06187574
+taxid: 1737490
+infraspecific_name: strain=017
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2017-06-13
+submitter: Shandong University at Weihai

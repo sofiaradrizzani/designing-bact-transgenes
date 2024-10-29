@@ -1,0 +1,16 @@
+File Name: GCF_019669985.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_019669985.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/669/985/GCF_019669985.1_ASM1966998v1/GCF_019669985.1_ASM1966998v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:21:40 2023
+refseq_category: representative genome
+assembly_accession: GCF_019669985.1
+bioproject: PRJNA224116
+biosample: SAMD00172921
+taxid: 1295382
+infraspecific_name: strain=E10
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-06-02
+submitter: Soil Biology and Chemistry, Department of Applied Biosciences, Graduate School of Bioagricultural Sciences, Nagoya University

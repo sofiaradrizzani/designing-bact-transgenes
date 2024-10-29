@@ -1,0 +1,16 @@
+File Name: GCF_003265305.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_003265305.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/265/305/GCF_003265305.2_ASM326530v2/GCF_003265305.2_ASM326530v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:57:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_003265305.2
+bioproject: PRJNA224116
+biosample: SAMN08763369
+taxid: 2133944
+infraspecific_name: strain=E39
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-10-16
+submitter: Seoul National University

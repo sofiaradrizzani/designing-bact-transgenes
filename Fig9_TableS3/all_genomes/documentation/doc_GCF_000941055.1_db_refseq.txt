@@ -1,0 +1,16 @@
+File Name: GCF_000941055.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000941055.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/941/055/GCF_000941055.1_ASM94105v1/GCF_000941055.1_ASM94105v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:30:37 2023
+refseq_category: representative genome
+assembly_accession: GCF_000941055.1
+bioproject: PRJNA224116
+biosample: SAMN03379851
+taxid: 1454006
+infraspecific_name: strain=CC-SAMT-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2015-03-04
+submitter: none

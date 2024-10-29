@@ -1,0 +1,16 @@
+File Name: GCF_017357445.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_017357445.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/357/445/GCF_017357445.1_ASM1735744v1/GCF_017357445.1_ASM1735744v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:03:39 2023
+refseq_category: representative genome
+assembly_accession: GCF_017357445.1
+bioproject: PRJNA224116
+biosample: SAMN04508133
+taxid: 37931
+infraspecific_name: strain=DnL1-1
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-03-16
+submitter: Biology Institute of Shandong Academy of Sciences

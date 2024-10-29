@@ -1,0 +1,16 @@
+File Name: GCF_016807805.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_016807805.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/807/805/GCF_016807805.1_ASM1680780v1/GCF_016807805.1_ASM1680780v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 14:07:16 2023
+refseq_category: representative genome
+assembly_accession: GCF_016807805.1
+bioproject: PRJNA224116
+biosample: SAMN10992855
+taxid: 2528964
+infraspecific_name: strain=YN2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-02-04
+submitter: Harbin Institute of Technology

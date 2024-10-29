@@ -1,0 +1,16 @@
+File Name: GCF_020310025.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_020310025.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/310/025/GCF_020310025.1_ASM2031002v1/GCF_020310025.1_ASM2031002v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 12:32:43 2023
+refseq_category: representative genome
+assembly_accession: GCF_020310025.1
+bioproject: PRJNA224116
+biosample: SAMN21876824
+taxid: 573501
+infraspecific_name: strain=F5
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-10-06
+submitter: Institute of Oceanology, Chinese Academy of Sciences

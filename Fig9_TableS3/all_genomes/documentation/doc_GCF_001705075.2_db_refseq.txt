@@ -1,0 +1,16 @@
+File Name: GCF_001705075.2_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_001705075.2
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/705/075/GCF_001705075.2_ASM170507v2/GCF_001705075.2_ASM170507v2_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 11:31:33 2023
+refseq_category: representative genome
+assembly_accession: GCF_001705075.2
+bioproject: PRJNA224116
+biosample: SAMN05526184
+taxid: 163359
+infraspecific_name: strain=ZJ
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2021-11-10
+submitter: Central South University

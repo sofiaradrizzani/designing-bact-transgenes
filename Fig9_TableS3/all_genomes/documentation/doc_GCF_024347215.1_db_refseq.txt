@@ -1,0 +1,16 @@
+File Name: GCF_024347215.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_024347215.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/347/215/GCF_024347215.1_ASM2434721v1/GCF_024347215.1_ASM2434721v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:33:25 2023
+refseq_category: representative genome
+assembly_accession: GCF_024347215.1
+bioproject: PRJNA224116
+biosample: SAMD00425492
+taxid: 1524258
+infraspecific_name: strain=KCTC 42154
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2022-07-05
+submitter: Laboratory of Microbiology, Division of Marine Life Science, Faculty of Fisheries Sciences, Hokkaido University

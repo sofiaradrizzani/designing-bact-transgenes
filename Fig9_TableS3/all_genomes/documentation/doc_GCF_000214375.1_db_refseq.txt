@@ -1,0 +1,16 @@
+File Name: GCF_000214375.1_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_000214375.1
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/214/375/GCF_000214375.1_ASM21437v1/GCF_000214375.1_ASM21437v1_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 10:38:14 2023
+refseq_category: representative genome
+assembly_accession: GCF_000214375.1
+bioproject: PRJNA224116
+biosample: SAMN02603452
+taxid: 545694
+infraspecific_name: strain=ZAS-2
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2011-05-23
+submitter: J. Craig Venter Institute

@@ -1,0 +1,16 @@
+File Name: GCF_002075285.3_cds_from_genomic_refseq.fna.gz
+Organism Name: GCF_002075285.3
+Database: NCBI refseq
+URL: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/075/285/GCF_002075285.3_ASM207528v3/GCF_002075285.3_ASM207528v3_cds_from_genomic.fna.gz
+Download_Date: Wed Sep 13 13:38:52 2023
+refseq_category: representative genome
+assembly_accession: GCF_002075285.3
+bioproject: PRJNA224116
+biosample: SAMN03466112
+taxid: 1641165
+infraspecific_name: strain=C2206
+version_status: latest
+release_type: Major
+genome_rep: Full
+seq_rel_date: 2019-01-25
+submitter: Macquarie University
