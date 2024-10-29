@@ -1,0 +1,250 @@
+E1T1 = c(100.0,100.0,75.0,66.7,64.7,60.0,88.2,100.0,83.3,42.9,100.0)
+E1T1
+shapiro.test(E1T1)
+qqnorm(E1T1); qqline(E1T1)
+qqnorm(log(E1T1+1)); qqline(log(E1T1+1))
+qqnorm(E1T1); qqline(E1T1)
+lE1T1 = log(E1T1)
+lE1T1
+shapiro.test(lE1T1)
+hist(E1T1)
+hist(lE1T1)
+lE1T1 = log(E1T1+1)
+lE1T1
+hist(E1T1)
+shapiro.test(lE1T1)
+aE1T1 = asin(E1T1)
+arcsin(E1T1)
+arcsine(E1T1)
+logE1T1 = lE1T1
+logE1T1
+log1E1T1=logE1T1
+log1E1T1
+decimalE1T1 = c(1,1,0.75,0.667,0.647,0.6,0.882,1,0.833,0.429,1)
+asin(decimalE1T1)
+aE1T1=asin(decimalE1T1)
+aE1T1
+hist(aE1T1)
+rootE1T1=sqrt(E1T1)
+rootE1T1
+hist(rootE1T1)
+shapiro.test(aE1T1)
+shapiro.test(rootE1T1)
+e1t1 = c(82.2,86.4,70.1,69.1,64.0,68.0,79.3,75.9,71.7,47.3,76.9)
+e1t1
+hist(e1t1)
+e1t1=e1
+e1 = c(82.2,86.4,70.1,69.1,64.0,68.0,79.3,75.9,71.7,47.3,76.9)
+e1
+qqnorm(e1); qqline(e1)
+shapiro.test(e1)
+log(e1+1)
+le1=log(e1+1)
+shapiro.test(le1)
+ae1=asin(e1)
+decimale1 = c(0.822,0.864,0.701,0.691,0.64,0.68,0.793,0.759,0.717,.473,0.769)
+ae1=asin(decimale1)
+ae1
+shapiro.test(ae1)
+le1
+e1=c(0.0,20.2,29.2,41.6,31.5,44.4,46.9,48.6,40.9,41.7)
+e2=c(0.0,20.2,29.2,41.6,31.5,44.4,46.9,48.6,40.9,41.7)
+e1 = c(82.2,86.4,70.1,69.1,64.0,68.0,79.3,75.9,71.7,47.3,76.9)
+le1
+e1
+e2
+shapiro.test(e2)
+qqnorm(e1); qqline(e2)
+qqnorm(e2); qqline(e2)
+hist(e2)
+le2 = log(e2+1)
+le2
+shapiro.test(le2)
+e1
+e2
+shapiro.test(e1)
+shapiro.test(e2)
+var.test(e1,e2)
+t.test(e1,e2,var.equal=TRUE)
+e3=c(83.3,36.1,41.1,45.6,41.7,55.6,50.0,62.5,51.3,66.7,59.1)
+shapiro.test(e3)
+ae2=asin(e2)
+decimale2 = c(0,0.202,0.292,0.416,0.417,0.444,0.469,0.486,0.409,0.417)
+ae2=asin(decimale2)
+ae2
+hist(ae2)
+shapiro.test(ae2)
+e1
+e2
+e3
+e2=c(0.0,0.0,20.2,29.2,41.6,31.5,44.4,46.9,48.6,40.9,41.7)
+e1
+shapiro.test(e2)
+e1
+e2
+e3
+var.test(e1,e2)
+var.test(e2,e3)
+var.test(e1,e3)
+t.test(e1,e2, var.equal=TRUE)
+t.test(e2,e3, var.equal=TRUE)
+t.test(e1,e3, var.equal=TRUE)
+t.test(dataset$e1,mu=50)
+t.test(e1,mu=50)
+t.test(e2,mu=50)
+t.test(e3,mu=50)
+t.test(e1,mu=66)
+t.test(e3,mu=66)
+t.test(e1,mu=50,alternative="greater")
+t.test(e2,mu=50,alternative="greater")
+t.test(e3,mu=50,alternative="greater")
+install-packages(dslabs)
+install.packages(dslabs)
+install.packages("dslabs")
+library("dslabs")
+install.packages("dslabs")
+library("dslabs")
+library(dslabs)
+install.package("tidyverse")
+install.packages("tidyverse")
+R version 4.1.2 (2021-11-01) -- "Bird Hippie"#
+Copyright (C) 2021 The R Foundation for Statistical Computing#
+Platform: x86_64-apple-darwin17.0 (64-bit)#
+#
+R is free software and comes with ABSOLUTELY NO WARRANTY.#
+You are welcome to redistribute it under certain conditions.#
+Type 'license()' or 'licence()' for distribution details.#
+#
+  Natural language support but running in an English locale#
+#
+R is a collaborative project with many contributors.#
+Type 'contributors()' for more information and#
+'citation()' on how to cite R or R packages in publications.#
+#
+Type 'demo()' for some demos, 'help()' for on-line help, or#
+'help.start()' for an HTML browser interface to help.#
+Type 'q()' to quit R.#
+#
+During startup - Warning messages:#
+1: Setting LC_CTYPE failed, using "C" #
+2: Setting LC_COLLATE failed, using "C" #
+3: Setting LC_TIME failed, using "C" #
+4: Setting LC_MESSAGES failed, using "C" #
+5: Setting LC_MONETARY failed, using "C" #
+[R.app GUI 1.77 (8007) x86_64-apple-darwin17.0]#
+#
+WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.#
+Please read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.#
+[History restored from /Users/sofiaradrizzani/.Rapp.history]#
+#
+> if(file.exists("GCvAAusage.xls")){file.remove("GCvAAusage.xls")}#
+2022-02-17 15:24:08.468 R[15824:117818] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.#
+> getwd()#
+[1] "/Users/sofiaradrizzani/Library/Group Containers/3L68KQB4HG.group.com.readdle.smartemail/databases/messagesData/4/20512"#
+> getwd()#
+[1] "/Users/sofiaradrizzani/Documents/Uni/Final Year/Final Year Project"#
+> list.files()#
+[1] "FYP 'Lab' booklet.xlsx"          "Other"                          #
+[3] "Paper_Attitudes_results_v3.docx" "R tutorial and notes"           #
+[5] "Survey"                         #
+> data1 <- read.csv(i, header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  object 'i' not found#
+> data1 <- read.csv(header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  argument "file" is missing, with no default#
+> list.files()#
+[1] "FYP 'Lab' booklet.xlsx"          "Other"                          #
+[3] "Paper_Attitudes_results_v3.docx" "R tutorial and notes"           #
+[5] "Survey"                         #
+> filelist <- list.files(path=".", pattern = "\\.csv$")#
+> for(i in filelist){}#
+> data1 <- read.csv(i, header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  'file' must be a character string or connection#
+> data1 <- read.csv(header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  argument "file" is missing, with no default#
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+Error in file(file, "rt") : cannot open the connection#
+In addition: Warning message:#
+In file(file, "rt") :#
+  cannot open file 'GCAAcontent.csv': No such file or directory#
+> list.files()#
+[1] "BB20153 Data interpretation" "GCAAcontent.csv"             "GCAAcontent.numbers"        #
+[4] "learningR (Autosaved).R"     "learningR.R"                #
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv")#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv", sep =",header=TRUE)#
++ #
++ #
+> #
+> data1 <- read.csv("GCAAcontent.csv", sep =",",header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : #
+  more columns than column names#
+> data1 <- read.csv("GCAAcontent.csv", header=TRUE)#
+> GC3.inR <- unlist(sata1$GC3Perc)#
+Error in unlist(sata1$GC3Perc) : object 'sata1' not found#
+> GC3.inR <- unlist(data1$GC3Perc)#
+> mean.gc3 <- mean(GC3.inR)#
+> sd.gc3 <- sd(GC3.inR)#
+> var.gc3 <- var(GC3.inR)#
+> var.gc3#
+[1] 562.4588#
+> rho.gc3.gcgen <- round(cor.gc3.gcgen$estimate, digits = 4)#
+Error: object 'cor.gc3.gcgen' not found#
+> cor.gc3.gcgen <- cor.test(GC3.inR, GCgen.inR, method = "spearman")#
+Error in cor.test.default(GC3.inR, GCgen.inR, method = "spearman") : #
+  object 'GCgen.inR' not found#
+> GCgen.inR <- unlist(data1[3])#
+> cor.gc3.gcgen <- cor.test(GC3.inR, GCgen.inR, method = "spearman")#
+> rho.gc3.gcgen <- round(cor.gc3.gcgen$estimate, digits = 4)#
+> Pval.gc3.gcgen  <- cor.gc3.gcgen$p.value#
+> pdf("Figure1.pdf")#
+> plot(GC3.inR, GCgen.inR)#
+> pdf("Figure1_fancy.pdf")#
+> plot(GC3.inR, GCgen.inR, xlab="GC3%", ylab = "Genomic GC content", col = "blue", cex=0.5, pch=18, main = "GC3% v GC genomic")#
+> plot(GC3.inR, GCgen.inR)#
+> plot#
+function (x, y, ...) #
+UseMethod("plot")#
+<bytecode: 0x7fc004a26130>#
+<environment: namespace:base>#
+> source("/Users/sofiaradrizzani/Documents/Uni/Final Year/Final Year Project/R tutorial and notes/Figure1.pdf")#
+Error in source("/Users/sofiaradrizzani/Documents/Uni/Final Year/Final Year Project/R tutorial and notes/Figure1.pdf") : #
+  /Users/sofiaradrizzani/Documents/Uni/Final Year/Final Year Project/R tutorial and notes/Figure1.pdf:1:1: unexpected input#
+1: %PDF-1.4#
+    ^#
+> jpeg("Figure1.jpeg")#
+> plot(GC3.inR, GCgen.inR)
+make_hist_2plots.R
+source(make_hist_2plots.R)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
+source('~/Documents/PhD/Projects/bact-transgenes/scripts_20241009/Fig5/make_fig/make_hist_2plots.R', chdir = TRUE)
