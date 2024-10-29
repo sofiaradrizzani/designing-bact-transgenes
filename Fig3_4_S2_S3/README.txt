@@ -1,6 +1,7 @@
 This archive contains all input data and scripts to generates Fig 3
 For both Goodman and Cambray et al data, the 5' sequence is split into its 10 individual codons and the log odds ratio is calculated by position.
 
+
 Input data:
 Cambray_DataS15.csv is the supplementary Data 15 directly from Cambray et al. Due to the excessive file size, this couldn't be uploaded. Please download (from https://osf.io/pm2qa?view_only=0d5b05fb08d84b76b21f399e832808b6) and rename file "Cambray_DataS15.csv" to progress with the analysis.
 1241934tables1.csv is the supplementary directly from Goodman et al
