@@ -40,5 +40,3 @@ plotFig8_LOdrop_GwithG.R
 	Panel D: XY plot of the Cambray and Goodman log odds ratios, with regression to derive the residuals
 	Panel E: plot of the calculated residuals by the mean of mean dropped log odds
 	Output: Fig8.pdf
-
-
