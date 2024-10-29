@@ -1,10 +1,11 @@
 This archive performs a comparison between codon enrichment in 5' v core for 1355 bacteria species and, both codon enrichment in highly vs lowly expressed genes as reported by Cambray et al, and those by Goodman et al
 
 Cambray_logodds_HvL5.csv reports log odds ratios for each codon to show enrichment in highly vs lowly expressed genes from the Cambray et al dataset.
-See directory data for full information on the preprocessing.
+See directory TableS1 for full information on the preprocessing. It contains the same information as file Cambray_LO_PNInorm.csv
 
-Input data in directory all_genomes was retrieved from NCBI RefSeq on 13th September 2023. See bact_accessions.csv for the full list of species analysed and their relative accession number.
-.fna files contain reference genome of one bacteria species per genus
+Reference sequence data was retrieved from NCBI RefSeq on 13th September 2023 (https://www.ncbi.nlm.nih.gov/refseq/).
+See bact_accessions.csv for the full list of species analysed and their relative accession number.
+Each .fna file containing the reference genome of one bacteria species per genus is not uploaded due to assembled file size but all data was then be placed in directory all_genomes to follow on with the analysis.
 
 
 getSeq.py
