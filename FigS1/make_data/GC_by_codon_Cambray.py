@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 #read in Cambray data
 
 columns = ["gs.sequence", "clean.lin.prot.mean", "ss.rna.dna.mean"]
-df = pd.read_csv("extracted_data.csv", usecols = columns)
+df = pd.read_csv("Cambray_DataS15.csv", usecols = columns)
 
 
 df = df.rename(columns={"clean.lin.prot.mean": "clean_lin_prot_mean","gs.sequence": "CDS.seq", "ss.rna.dna.mean": "ss_rna_dna_mean"})
