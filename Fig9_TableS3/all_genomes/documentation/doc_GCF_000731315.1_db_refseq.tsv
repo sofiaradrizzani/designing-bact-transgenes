@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GCF_000731315.1_genomic_refseq.fna.gz	GCF_000731315.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/731/315/GCF_000731315.1_RG540_Ch_pA/GCF_000731315.1_RG540_Ch_pA_cds_from_genomic.fna.gz	refseq	/Users/sofiaradrizzani/Documents/Scripts/Fivecodons/Data/all_genomes/bacteria_CDS	representative genome	GCF_000731315.1	PRJNA224116	SAMEA3139073	1028800	strain=HAMBI 540	latest	Major	Full	2014-06-25	UH

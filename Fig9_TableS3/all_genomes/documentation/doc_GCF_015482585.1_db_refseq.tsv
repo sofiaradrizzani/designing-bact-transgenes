@@ -1,2 +1,0 @@
-file_name	organism	url	database	path	refseq_category	assembly_accession	bioproject	biosample	taxid	infraspecific_name	version_status	release_type	genome_rep	seq_rel_date	submitter
-GCF_015482585.1_genomic_refseq.fna.gz	GCF_015482585.1	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/482/585/GCF_015482585.1_ASM1548258v1/GCF_015482585.1_ASM1548258v1_cds_from_genomic.fna.gz	refseq	/Users/sofiaradrizzani/Documents/Scripts/Fivecodons/Data/all_genomes/bacteria_CDS	representative genome	GCF_015482585.1	PRJNA224116	SAMN12206557	2593652	strain=R1DC41	latest	Major	Full	2020-11-16	KAUST
