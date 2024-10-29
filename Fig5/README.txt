@@ -24,3 +24,4 @@ Directory make_fig:
 make_hist_2plots.R
 	Takes Cambray_codondrop_LOR_Mantel_sds.csv and Rand_chi_Efromfreq.cav from above, as well as Cambray_codondrop_LOR.csv (see directory Fig6_7 for further details).
 	Output:Fig5.pdf
+
